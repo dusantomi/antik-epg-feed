@@ -314,29 +314,29 @@ Dokumentárny cyklus o neľahkých životných situáciách a ľuďoch, o ktorý
     <desc lang="sk">(spravodajstvo)</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261122061500 +0100" stop="20261122062500 +0100" channel="DVOJKA.cz">
+  <programme start="20261122062000 +0100" stop="20261122063000 +0100" channel="DVOJKA.cz">
     <title lang="sk">Cyklopotulky</title>
     <desc lang="sk">Cyklopotulky-Kadaň
 Najkrajší pohľad na Čechy zo sedla bicykla. Slovenská republika (2026)., (dokument), stereo</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261122062500 +0100" stop="20261122064000 +0100" channel="DVOJKA.cz">
+  <programme start="20261122063000 +0100" stop="20261122064500 +0100" channel="DVOJKA.cz">
     <title lang="sk">Svet na Slovensku</title>
     <desc lang="sk">Paríž
 Vlastiveda o zabudnutých, no dôležitých svetových lokalitách na Slovensku. Slovenská republika (2025)., (dokument), stereo</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261122064000 +0100" stop="20261122071000 +0100" channel="DVOJKA.cz">
+  <programme start="20261122064500 +0100" stop="20261122071500 +0100" channel="DVOJKA.cz">
     <title lang="sk">Televíkend</title>
     <desc lang="sk">S televíznou kamerou na potulkách krajinou. Nechajte sa inšpirovať Slovenskom!. Slovenská republika (2026)., (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261122071000 +0100" stop="20261122075500 +0100" channel="DVOJKA.cz">
+  <programme start="20261122071500 +0100" stop="20261122080000 +0100" channel="DVOJKA.cz">
     <title lang="sk">Kapura</title>
     <desc lang="sk">Folklórna hitparáda. Slovenská republika (2026)., (hudba), stereo</desc>
     <category lang="sk">hudba</category>
   </programme>
-  <programme start="20261122075500 +0100" stop="20261122082500 +0100" channel="DVOJKA.cz">
+  <programme start="20261122080000 +0100" stop="20261122082500 +0100" channel="DVOJKA.cz">
     <title lang="sk">Živá panoráma</title>
     <desc lang="sk">Aktuálne zábery a informácie zo slovenských hôr a stredísk cestovného ruchu. Slovenská republika (2026)., (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
@@ -487,7 +487,7 @@ Súrodenci Ben a Tom sú dvojica ako hrom. Málo spia a veľa vedia, ani chvíľ
     <category lang="sk">rodinný</category>
     <category lang="sk">animovaný</category>
   </programme>
-  <programme start="20261122192000 +0100" stop="20261122194000 +0100" channel="DVOJKA.cz">
+  <programme start="20261122192000 +0100" stop="20261122194500 +0100" channel="DVOJKA.cz">
     <title lang="sk">Heidi</title>
     <desc lang="sk">Francúzsko - austrálsky animovaný seriál, ktorý vznikol na základe knižnej predlohy švajčiarskej autorky Johanny Spyriovej. Australia, Francúzsko (2015). Réžia: Jérôme Mouscadet., (seriál, dráma, dobrodružstvo, rodinný, animovaný), stereo, Francúzsko, Austrália, 2015</desc>
     <category lang="sk">seriál</category>
@@ -496,7 +496,7 @@ Súrodenci Ben a Tom sú dvojica ako hrom. Málo spia a veľa vedia, ani chvíľ
     <category lang="sk">rodinný</category>
     <category lang="sk">animovaný</category>
   </programme>
-  <programme start="20261122194000 +0100" stop="20261122200000 +0100" channel="DVOJKA.cz">
+  <programme start="20261122194500 +0100" stop="20261122200000 +0100" channel="DVOJKA.cz">
     <title lang="sk">Môj zvierací miláčik II</title>
     <desc lang="sk">Britský cyklus o domácich zvieracích miláčikoch. Spojené kráľovstvo Veľkej Británie a Severného Írska (2015)., (dokument), stereo</desc>
     <category lang="sk">dokument</category>
@@ -509,7 +509,7 @@ Súrodenci Ben a Tom sú dvojica ako hrom. Málo spia a veľa vedia, ani chvíľ
   <programme start="20261122201000 +0100" stop="20261122203500 +0100" channel="DVOJKA.cz">
     <title lang="sk">Radosť zo života</title>
     <desc lang="sk">Štefan Kvietik
-Seriál o nežijúcich osobnostiach slovenského kultúrneho a spoločenského života. Slovenská republika (2024)., (dokument)</desc>
+Seriál o nežijúcich osobnostiach slovenského kultúrneho a spoločenského života. Slovenská republika (2024)., (dokument), stereo</desc>
     <category lang="sk">dokument</category>
   </programme>
   <programme start="20261122203500 +0100" stop="20261122223500 +0100" channel="DVOJKA.cz">
@@ -520,12 +520,12 @@ Seriál o nežijúcich osobnostiach slovenského kultúrneho a spoločenského �
     <category lang="sk">komédia</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261122223500 +0100" stop="20261123000300 +0100" channel="DVOJKA.cz">
+  <programme start="20261122223500 +0100" stop="20261123000200 +0100" channel="DVOJKA.cz">
     <title lang="sk">Tri ženy pod orechom</title>
     <desc lang="sk">Tragikomický príbeh troch generácií prespaniek čakajúcich na koniec sveta, ktorý divákov prenesie do magického Marakéša, dediny na východnom Slovensku. Slovenská republika (2026). Účinkujú: Ľudmila Dutková, Svetlana Wittnerová, Jana Evelley, Eva Javorská, BORIS SRNÍK. Réžia: Ladislav Halama., (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261123000300 +0100" stop="20261123000400 +0100" channel="DVOJKA.cz">
+  <programme start="20261123000200 +0100" stop="20261123000400 +0100" channel="DVOJKA.cz">
     <title lang="sk">Hymna SR</title>
     <desc lang="sk">Slovenská republika, (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
@@ -798,10 +798,16 @@ Cestopis, ktorý nepozná hranice. Dobrodružná výprava po divoch sveta a nezn
     <display-name>Markíza</display-name>
     <icon src="https://web02.antik.sk/assets/img/channels/88aecef2b2abd7bfe49cd1ea2e5a4819.svg" />
   </channel>
-  <programme start="20261122044000 +0100" stop="20261122060000 +0100" channel="MARKÍZA.cz">
+  <programme start="20261122044000 +0100" stop="20261122052000 +0100" channel="MARKÍZA.cz">
     <title lang="sk">Smotánka</title>
     <desc lang="sk">Nevšedný svet kľúčovou dierkou., (zábava)</desc>
     <category lang="sk">zábava</category>
+  </programme>
+  <programme start="20261122052000 +0100" stop="20261122060000 +0100" channel="MARKÍZA.cz">
+    <title lang="sk">Reflex</title>
+    <desc lang="sk">Ľudia - príbehy - emócie., (film, akcia), USA, 2014</desc>
+    <category lang="sk">film</category>
+    <category lang="sk">akcia</category>
   </programme>
   <programme start="20261122060000 +0100" stop="20261122065000 +0100" channel="MARKÍZA.cz">
     <title lang="sk">Televízne noviny</title>
@@ -915,14 +921,14 @@ Reality šou, SR (2026). Moderuje Marek Fašiang., (zábava)</desc>
     <display-name>Doma</display-name>
     <icon src="https://web02.antik.sk/assets/img/channels/6f8a77da26a88ed1dc01c3bf0335831c.svg" />
   </channel>
-  <programme start="20261122024500 +0100" stop="20261122040000 +0100" channel="DOMA.cz">
+  <programme start="20261122023500 +0100" stop="20261122035500 +0100" channel="DOMA.cz">
     <title lang="sk">Kráska a zviera</title>
     <desc lang="sk">Romantický film, USA (2011). Réžia D. Barnz. Hrajú: V. Hudgensová, A. Pettyfer, M. K. Olsenová, N. P. Harris, P. Krause., (film, dráma, romantika), USA, 2011</desc>
     <category lang="sk">film</category>
     <category lang="sk">dráma</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261122040000 +0100" stop="20261122055500 +0100" channel="DOMA.cz">
+  <programme start="20261122035500 +0100" stop="20261122055500 +0100" channel="DOMA.cz">
     <title lang="sk">Tanec s vášňou</title>
     <desc lang="sk">Romantický film, USA (2000). Réžia N. Hytner. Hrajú: A. Schullová, J. Hayenga, Z. Saldanová, C. Alban, E. Stiefel., (film, dráma, romantika, hudba), USA, 2000</desc>
     <category lang="sk">film</category>
@@ -1002,13 +1008,13 @@ Nové mamy, nové pravidlá., (zábava)</desc>
     <category lang="sk">komédia</category>
     <category lang="sk">horor</category>
   </programme>
-  <programme start="20261122154500 +0100" stop="20261122173000 +0100" channel="DOMA.cz">
+  <programme start="20261122154500 +0100" stop="20261122173500 +0100" channel="DOMA.cz">
     <title lang="sk">10 krokov k láske</title>
     <desc lang="sk">Romantický film, USA (2021). Réžia E. Snoderlyová. Hrajú: E. Cannonová, B. Webb, L. Giovagnoliová, J. Gray., (film, romantika), USA, 2021</desc>
     <category lang="sk">film</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261122173000 +0100" stop="20261122185500 +0100" channel="DOMA.cz">
+  <programme start="20261122173500 +0100" stop="20261122185500 +0100" channel="DOMA.cz">
     <title lang="sk">Dunaj, k vašim službám XVI (10)</title>
     <desc lang="sk">Spoznajte svet za výkladom prvého obchodného domu na Slovensku. Dobový romantický seriál, SR (2026). Hrajú: T. Maštalír, A. Bardy, N. Pocisková, L. Krausková, Z. Studenková, E. Horváth, F. Tůma, M. Hilmerová, J. Koleník., (seriál, dráma, romantika)</desc>
     <category lang="sk">seriál</category>
@@ -1022,14 +1028,14 @@ Nové mamy, nové pravidlá., (zábava)</desc>
     <category lang="sk">dráma</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261122203000 +0100" stop="20261122233000 +0100" channel="DOMA.cz">
+  <programme start="20261122203000 +0100" stop="20261122233500 +0100" channel="DOMA.cz">
     <title lang="sk">Chyť ma, ak to dokážeš</title>
     <desc lang="sk">Skutočný príbeh (135'), USA-Kanada (2002). Réžia S. Spielberg. Hrajú: L. DiCaprio, T. Hanks, Ch. Walken, M. Sheen, N. Bayeová., (film, dráma, krimi), USA, 2002</desc>
     <category lang="sk">film</category>
     <category lang="sk">dráma</category>
     <category lang="sk">krimi</category>
   </programme>
-  <programme start="20261122233000 +0100" stop="20261123011500 +0100" channel="DOMA.cz">
+  <programme start="20261122233500 +0100" stop="20261123012000 +0100" channel="DOMA.cz">
     <title lang="sk">Tajomstvo vzornej mamičky</title>
     <desc lang="sk">Skutočný príbeh, USA (2021). Réžia K. Fair. Hrajú: J. Kramerová, L. Gibsonová, M. Finochio, T. D. Robinsonová., (film, dráma), USA, 2021</desc>
     <category lang="sk">film</category>
@@ -1083,12 +1089,12 @@ Priamy prenos., (šport)</desc>
     <category lang="sk">seriál</category>
     <category lang="sk">komédia</category>
   </programme>
-  <programme start="20261122080000 +0100" stop="20261122085000 +0100" channel="DAJTO.cz">
+  <programme start="20261122080000 +0100" stop="20261122084500 +0100" channel="DAJTO.cz">
     <title lang="sk">Kredenc (23)</title>
     <desc lang="sk">Zábavná šou, SR (2015). Účinkujú: P. Polnišová, Z. Šebová, M. Kubovčík, S. Malachovský., (zábava)</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261122085000 +0100" stop="20261122093500 +0100" channel="DAJTO.cz">
+  <programme start="20261122084500 +0100" stop="20261122093500 +0100" channel="DAJTO.cz">
     <title lang="sk">Partička (15)</title>
     <desc lang="sk">Záruka najlepšej zábavy., (zábava)</desc>
     <category lang="sk">zábava</category>
@@ -1156,7 +1162,7 @@ Priamy prenos., (šport)</desc>
     <category lang="sk">komédia</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261122142500 +0100" stop="20261122145000 +0100" channel="DAJTO.cz">
+  <programme start="20261122142500 +0100" stop="20261122145500 +0100" channel="DAJTO.cz">
     <title lang="sk">Teória veľkého tresku IX (11)</title>
     <sub-title lang="sk">Očakávania premiérovej noci</sub-title>
     <desc lang="sk">(Očakávania premiérovej noci), Sitkom, USA (2015-2016). Hrajú: J. Galecki, J. Parsons, K. Cuocová., (seriál, komédia, romantika), USA, 2015</desc>
@@ -1164,7 +1170,7 @@ Priamy prenos., (šport)</desc>
     <category lang="sk">komédia</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261122145000 +0100" stop="20261122151000 +0100" channel="DAJTO.cz">
+  <programme start="20261122145500 +0100" stop="20261122151000 +0100" channel="DAJTO.cz">
     <title lang="sk">Teória veľkého tresku IX (12)</title>
     <sub-title lang="sk">Transformácia obchodného stretnutia</sub-title>
     <desc lang="sk">(Transformácia obchodného stretnutia), Sitkom, USA (2015-2016). Hrajú: J. Galecki, J. Parsons, K. Cuocová., (seriál, komédia, romantika), USA, 2016</desc>
@@ -1188,7 +1194,7 @@ Priamy prenos., (šport)</desc>
     <category lang="sk">komédia</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261122160500 +0100" stop="20261122163500 +0100" channel="DAJTO.cz">
+  <programme start="20261122160500 +0100" stop="20261122164000 +0100" channel="DAJTO.cz">
     <title lang="sk">Priatelia III (24)</title>
     <sub-title lang="sk">Najväčší šampión</sub-title>
     <desc lang="sk">(Najväčší šampión), Sitkom, USA (1996-1997). Hrajú: J. Anistonová, C. Coxová, L. Kudrowová., (seriál, komédia, romantika), USA, 1997</desc>
@@ -1196,7 +1202,7 @@ Priamy prenos., (šport)</desc>
     <category lang="sk">komédia</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261122163500 +0100" stop="20261122170500 +0100" channel="DAJTO.cz">
+  <programme start="20261122164000 +0100" stop="20261122170500 +0100" channel="DAJTO.cz">
     <title lang="sk">Dva a pol chlapa VIII (16)</title>
     <sub-title lang="sk">Veľký lietajúci bastardi</sub-title>
     <desc lang="sk">(Veľký lietajúci bastardi), Sitkom, USA (2010-2011). Hrajú: Ch. Sheen, J. Cryer, A. T. Jones, C. Ferrellová., (seriál, komédia, romantika), USA, 2011</desc>
@@ -1204,7 +1210,7 @@ Priamy prenos., (šport)</desc>
     <category lang="sk">komédia</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261122170500 +0100" stop="20261122173000 +0100" channel="DAJTO.cz">
+  <programme start="20261122170500 +0100" stop="20261122173500 +0100" channel="DAJTO.cz">
     <title lang="sk">Dva a pol chlapa IX (1)</title>
     <sub-title lang="sk">Prvé kolo vyhrala sexy kočka</sub-title>
     <desc lang="sk">(Prvé kolo vyhrala sexy kočka), Sitkom, USA (2011-2012). Hrajú: A. Kutcher, J. Cryer, A. T. Jones., (seriál, komédia, romantika), USA, 2011</desc>
@@ -1212,7 +1218,7 @@ Priamy prenos., (šport)</desc>
     <category lang="sk">komédia</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261122173000 +0100" stop="20261122180000 +0100" channel="DAJTO.cz">
+  <programme start="20261122173500 +0100" stop="20261122180000 +0100" channel="DAJTO.cz">
     <title lang="sk">2 baby na mizine IV (6)</title>
     <desc lang="sk">Sitkom, USA (2014-2015). Hrajú: K. Denningsová, B. Behrsová, J. Kite., (seriál, komédia), 2014</desc>
     <category lang="sk">seriál</category>
@@ -1238,7 +1244,7 @@ Priamy prenos., (šport)</desc>
     <category lang="sk">seriál</category>
     <category lang="sk">komédia</category>
   </programme>
-  <programme start="20261122203000 +0100" stop="20261122230000 +0100" channel="DAJTO.cz">
+  <programme start="20261122203000 +0100" stop="20261122230500 +0100" channel="DAJTO.cz">
     <title lang="sk">Bad Boys</title>
     <desc lang="sk">Akčný film, USA (1995). Réžia M. Bay. Hrajú: M. Lawrence, W. Smith, T. Karyo, T. Leoniová, J. Pantoliano., (film, thriller, komédia, dráma, akcia, krimi), USA, 1995</desc>
     <category lang="sk">film</category>
@@ -1248,7 +1254,7 @@ Priamy prenos., (šport)</desc>
     <category lang="sk">krimi</category>
     <category lang="sk">komédia</category>
   </programme>
-  <programme start="20261122230000 +0100" stop="20261123000000 +0100" channel="DAJTO.cz">
+  <programme start="20261122230500 +0100" stop="20261123000000 +0100" channel="DAJTO.cz">
     <title lang="sk">Góóól! (15)</title>
     <desc lang="sk">Magazín Niké ligy., (šport)</desc>
     <category lang="sk">šport</category>
@@ -1502,12 +1508,12 @@ Reálni strážcovia zákona, skutočné príbehy, autentické zásahy., (zábav
     <desc lang="sk">Zábavná relácia s Elenou Vacvalovou a Oliverom Andrásym., (zábava)</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261122060000 +0100" stop="20261122064500 +0100" channel="Markíza KLASIK.cz">
+  <programme start="20261122060000 +0100" stop="20261122065500 +0100" channel="Markíza KLASIK.cz">
     <title lang="sk">Aj múdry schybí (7)</title>
     <desc lang="sk">Zábavná relácia s Elenou Vacvalovou a Oliverom Andrásym., (zábava)</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261122064500 +0100" stop="20261122070500 +0100" channel="Markíza KLASIK.cz">
+  <programme start="20261122065500 +0100" stop="20261122071500 +0100" channel="Markíza KLASIK.cz">
     <title lang="sk">M.A.S.H XI (12)</title>
     <sub-title lang="sk">Nehovor už nie</sub-title>
     <desc lang="sk">(Nehovor už nie), Komediálny seriál, USA (1982-1983). Hrajú: A. Alda, M. Farrell, H. Morgan, L. Switová, D. O. Stiers, J. Farr., (seriál, komédia, dráma, vojnový), USA, 1983</desc>
@@ -1516,7 +1522,7 @@ Reálni strážcovia zákona, skutočné príbehy, autentické zásahy., (zábav
     <category lang="sk">komédia</category>
     <category lang="sk">vojnový</category>
   </programme>
-  <programme start="20261122070500 +0100" stop="20261122075500 +0100" channel="Markíza KLASIK.cz">
+  <programme start="20261122071500 +0100" stop="20261122080000 +0100" channel="Markíza KLASIK.cz">
     <title lang="sk">Kobra 11 XXV (7)</title>
     <sub-title lang="sk">Po službe</sub-title>
     <desc lang="sk">(Po službe), Akčný seriál, Nemecko (2019-2020). Hrajú: E. Atalay, D. Roesner., (seriál, thriller, dráma, akcia, dobrodružstvo, krimi), 2019</desc>
@@ -1527,7 +1533,7 @@ Reálni strážcovia zákona, skutočné príbehy, autentické zásahy., (zábav
     <category lang="sk">krimi</category>
     <category lang="sk">dobrodružstvo</category>
   </programme>
-  <programme start="20261122075500 +0100" stop="20261122085500 +0100" channel="Markíza KLASIK.cz">
+  <programme start="20261122080000 +0100" stop="20261122090000 +0100" channel="Markíza KLASIK.cz">
     <title lang="sk">Kobra 11 XXV (8)</title>
     <sub-title lang="sk">Nevesta v ohrození</sub-title>
     <desc lang="sk">(Nevesta v ohrození), Akčný seriál, Nemecko (2019-2020). Hrajú: E. Atalay, D. Roesner., (seriál, thriller, dráma, akcia, dobrodružstvo, krimi), Nemecko, 2019</desc>
@@ -1538,7 +1544,7 @@ Reálni strážcovia zákona, skutočné príbehy, autentické zásahy., (zábav
     <category lang="sk">krimi</category>
     <category lang="sk">dobrodružstvo</category>
   </programme>
-  <programme start="20261122085500 +0100" stop="20261122095000 +0100" channel="Markíza KLASIK.cz">
+  <programme start="20261122090000 +0100" stop="20261122100000 +0100" channel="Markíza KLASIK.cz">
     <title lang="sk">Kobra 11 XXV (9)</title>
     <sub-title lang="sk">Dedičstvo</sub-title>
     <desc lang="sk">(Dedičstvo), Akčný seriál, Nemecko (2019-2020). Hrajú: E. Atalay, D. Roesner., (seriál, thriller, dráma, akcia, dobrodružstvo, krimi), 2019</desc>
@@ -1549,18 +1555,16 @@ Reálni strážcovia zákona, skutočné príbehy, autentické zásahy., (zábav
     <category lang="sk">krimi</category>
     <category lang="sk">dobrodružstvo</category>
   </programme>
-  <programme start="20261122095000 +0100" stop="20261122105500 +0100" channel="Markíza KLASIK.cz">
+  <programme start="20261122100000 +0100" stop="20261122110500 +0100" channel="Markíza KLASIK.cz">
     <title lang="sk">Kobra 11 XXV (10)</title>
-    <sub-title lang="sk">Dedičstvo</sub-title>
-    <desc lang="sk">(Dedičstvo), Akčný seriál, Nemecko (2019-2020). Hrajú: E. Atalay, D. Roesner., (seriál, thriller, dráma, akcia, dobrodružstvo, krimi), 2019</desc>
+    <sub-title lang="sk">Dedičstvo, 2. časť</sub-title>
+    <desc lang="sk">(Dedičstvo, 2. časť), Akčný seriál, Nemecko (2019-2020). Hrajú: E. Atalay, D. Roesner., (seriál, dráma, akcia, krimi)</desc>
     <category lang="sk">seriál</category>
-    <category lang="sk">thriller</category>
     <category lang="sk">dráma</category>
     <category lang="sk">akcia</category>
     <category lang="sk">krimi</category>
-    <category lang="sk">dobrodružstvo</category>
   </programme>
-  <programme start="20261122105500 +0100" stop="20261122115000 +0100" channel="Markíza KLASIK.cz">
+  <programme start="20261122110500 +0100" stop="20261122120000 +0100" channel="Markíza KLASIK.cz">
     <title lang="sk">Stratený svet I (5)</title>
     <sub-title lang="sk">Jeskyně strachu</sub-title>
     <desc lang="sk">(Jeskyně strachu), Dobrodružný seriál, Austrália-Kanada-VB (1999-2000). Hrajú: P. McCauley, R. Blakelyová, W. Snow., (seriál, akcia, dobrodružstvo, scifi), 1999</desc>
@@ -1569,7 +1573,7 @@ Reálni strážcovia zákona, skutočné príbehy, autentické zásahy., (zábav
     <category lang="sk">dobrodružstvo</category>
     <category lang="sk">scifi</category>
   </programme>
-  <programme start="20261122115000 +0100" stop="20261122124500 +0100" channel="Markíza KLASIK.cz">
+  <programme start="20261122120000 +0100" stop="20261122125500 +0100" channel="Markíza KLASIK.cz">
     <title lang="sk">Stratený svet I (6)</title>
     <sub-title lang="sk">Spása</sub-title>
     <desc lang="sk">(Spása), Dobrodružný seriál, Austrália-Kanada-VB (1999-2000). Hrajú: P. McCauley, R. Blakelyová, W. Snow., (seriál, akcia, dobrodružstvo, scifi), 1999</desc>
@@ -1578,7 +1582,7 @@ Reálni strážcovia zákona, skutočné príbehy, autentické zásahy., (zábav
     <category lang="sk">dobrodružstvo</category>
     <category lang="sk">scifi</category>
   </programme>
-  <programme start="20261122124500 +0100" stop="20261122134000 +0100" channel="Markíza KLASIK.cz">
+  <programme start="20261122125500 +0100" stop="20261122135000 +0100" channel="Markíza KLASIK.cz">
     <title lang="sk">Zmija II (10)</title>
     <desc lang="sk">Akčný seriál, USA (1996-1997). Hrajú: J. Nipote, H. Medwayová, J. Kaake., (seriál, dráma, akcia, dobrodružstvo, scifi, krimi)</desc>
     <category lang="sk">seriál</category>
@@ -1588,7 +1592,7 @@ Reálni strážcovia zákona, skutočné príbehy, autentické zásahy., (zábav
     <category lang="sk">dobrodružstvo</category>
     <category lang="sk">scifi</category>
   </programme>
-  <programme start="20261122134000 +0100" stop="20261122144000 +0100" channel="Markíza KLASIK.cz">
+  <programme start="20261122135000 +0100" stop="20261122144500 +0100" channel="Markíza KLASIK.cz">
     <title lang="sk">Zmija II (11)</title>
     <desc lang="sk">Akčný seriál, USA (1996-1997). Hrajú: J. Nipote, H. Medwayová, J. Kaake., (seriál, dráma, akcia, dobrodružstvo, scifi, krimi)</desc>
     <category lang="sk">seriál</category>
@@ -1598,7 +1602,7 @@ Reálni strážcovia zákona, skutočné príbehy, autentické zásahy., (zábav
     <category lang="sk">dobrodružstvo</category>
     <category lang="sk">scifi</category>
   </programme>
-  <programme start="20261122144000 +0100" stop="20261122154000 +0100" channel="Markíza KLASIK.cz">
+  <programme start="20261122144500 +0100" stop="20261122155000 +0100" channel="Markíza KLASIK.cz">
     <title lang="sk">Vražedné pobrežie III (21)</title>
     <sub-title lang="sk">Zakázané ovocie</sub-title>
     <desc lang="sk">(Zakázané ovocie), Akčný seriál, Kanada (1992-1993). Hrajú: R. Stewart, C. Dunnová, I. Tracey., (seriál, dráma, akcia), Izrael, Kanada, 1993</desc>
@@ -1606,7 +1610,7 @@ Reálni strážcovia zákona, skutočné príbehy, autentické zásahy., (zábav
     <category lang="sk">dráma</category>
     <category lang="sk">akcia</category>
   </programme>
-  <programme start="20261122154000 +0100" stop="20261122164500 +0100" channel="Markíza KLASIK.cz">
+  <programme start="20261122155000 +0100" stop="20261122165000 +0100" channel="Markíza KLASIK.cz">
     <title lang="sk">Vražedné pobrežie III (22)</title>
     <sub-title lang="sk">Smutný koniec</sub-title>
     <desc lang="sk">(Smutný koniec), Akčný seriál, Kanada (1992-1993). Hrajú: R. Stewart, C. Dunnová, I. Tracey., (seriál, dráma, akcia), Kanada, Mexiko, 1993</desc>
@@ -1614,7 +1618,7 @@ Reálni strážcovia zákona, skutočné príbehy, autentické zásahy., (zábav
     <category lang="sk">dráma</category>
     <category lang="sk">akcia</category>
   </programme>
-  <programme start="20261122164500 +0100" stop="20261122174000 +0100" channel="Markíza KLASIK.cz">
+  <programme start="20261122165000 +0100" stop="20261122174000 +0100" channel="Markíza KLASIK.cz">
     <title lang="sk">Čarodejnice III (17)</title>
     <sub-title lang="sk">Návraty</sub-title>
     <desc lang="sk">(Návraty), Seriál, USA (2000-2001). Hrajú: S. Dohertyová, H. M. Combsová, A. Milanová., (seriál, komédia, dráma, fantastika), USA, 2001</desc>
@@ -1640,7 +1644,7 @@ Reálni strážcovia zákona, skutočné príbehy, autentické zásahy., (zábav
     <category lang="sk">dráma</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261122193000 +0100" stop="20261122202500 +0100" channel="Markíza KLASIK.cz">
+  <programme start="20261122193000 +0100" stop="20261122203000 +0100" channel="Markíza KLASIK.cz">
     <title lang="sk">Beverly Hills 90210 VII (21)</title>
     <sub-title lang="sk">Přímý střelec</sub-title>
     <desc lang="sk">(Přímý střelec), Seriál, USA (1996-1997). Hrajú: J. Priestley, J. Garthová, I. Ziering, B. A. Green, T. Spellingová, T. Thiessenová., (seriál, dráma, romantika), USA, 1997</desc>
@@ -1648,7 +1652,7 @@ Reálni strážcovia zákona, skutočné príbehy, autentické zásahy., (zábav
     <category lang="sk">dráma</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261122202500 +0100" stop="20261122210000 +0100" channel="Markíza KLASIK.cz">
+  <programme start="20261122203000 +0100" stop="20261122210000 +0100" channel="Markíza KLASIK.cz">
     <title lang="sk">M.A.S.H XI (13)</title>
     <sub-title lang="sk">Priatelia a nepriatelia</sub-title>
     <desc lang="sk">(Priatelia a nepriatelia), Komediálny seriál, USA (1982-1983). Hrajú: A. Alda, M. Farrell, H. Morgan, L. Switová, D. O. Stiers, J. Farr., (seriál, komédia, dráma, vojnový), USA, 1983</desc>
@@ -1680,7 +1684,7 @@ Reálni strážcovia zákona, skutočné príbehy, autentické zásahy., (zábav
     <category lang="sk">komédia</category>
     <category lang="sk">vojnový</category>
   </programme>
-  <programme start="20261123000000 +0100" stop="20261123013500 +0100" channel="Markíza KLASIK.cz">
+  <programme start="20261123000000 +0100" stop="20261123013000 +0100" channel="Markíza KLASIK.cz">
     <title lang="sk">Karambol 2</title>
     <desc lang="sk">Westernová komédia, Taliansko (1975). Réžia F. Baldi. Hrajú: P. Smith, A. Cantafora, G. Onorato, G. Andreiniová, R. O’Connor, N. Pazzafini., (film, western, komédia), Taliansko, 1975</desc>
     <category lang="sk">film</category>
@@ -2289,7 +2293,7 @@ Americký kriminálny seriál (2025). Moderuje: June Squibbová. Hrajú: June Sq
   </programme>
   <channel id="TA3.cz">
     <display-name>TA3</display-name>
-    <icon src="https://web02.antik.sk/assets/img/channels/5433973ecdcccae223dc7c23663b2b6b.svg" />
+    <icon src="https://web02.antik.sk/assets/img/channels/a92a0127acea617b5931733cd6f39107.svg" />
   </channel>
   <programme start="20261122010000 +0100" stop="20261122013000 +0100" channel="TA3.cz">
     <title lang="sk">Štúdio ta3</title>
@@ -3040,7 +3044,7 @@ Britský dokumentárny seriál (2018)., (dokument)</desc>
   </programme>
   <channel id="JOJCINEMA.cz">
     <display-name>JOJ Cinema</display-name>
-    <icon src="https://web02.antik.sk/assets/img/channels/a495df5c73045da66c3f87fa0c8ed9d5.svg" />
+    <icon src="https://web02.antik.sk/assets/img/channels/800244a29155204f4df7cf9e15f604ab.svg" />
   </channel>
   <programme start="20261122023500 +0100" stop="20261122040000 +0100" channel="JOJCINEMA.cz">
     <title lang="sk">Škandalózne zamilovaná</title>
@@ -3143,32 +3147,32 @@ Britský dokumentárny seriál (2018)., (dokument)</desc>
     <display-name>ČT1</display-name>
     <icon src="https://web02.antik.sk/assets/img/channels/bb151d2838859cc04d9ed06aa99eefbc.svg" />
   </channel>
-  <programme start="20261122011500 +0100" stop="20261122014500 +0100" channel="CZ - ČT1">
+  <programme start="20261122012200 +0100" stop="20261122015400 +0100" channel="CZ - ČT1">
     <title lang="sk">Reportéři +</title>
     <desc lang="sk">Zásadní kauzy ze všech úhlů. Investigace, zákulisí, kontext, (spravodajstvo)</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261122014500 +0100" stop="20261122021500 +0100" channel="CZ - ČT1">
+  <programme start="20261122015400 +0100" stop="20261122021500 +0100" channel="CZ - ČT1">
     <title lang="sk">Kura Kura</title>
     <desc lang="sk">Česko-indonéský projekt Kura Kura a jeho autoři Monika a Milan Jeglíkovi (2010), (dokument), stereo</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261122021500 +0100" stop="20261122034700 +0100" channel="CZ - ČT1">
+  <programme start="20261122021500 +0100" stop="20261122035600 +0100" channel="CZ - ČT1">
     <title lang="sk">Sama doma</title>
     <desc lang="sk">Být doma neznamená šeď a nudu. Móda, zdraví, děti a tipy na víkend, (zábava)</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261122034700 +0100" stop="20261122050000 +0100" channel="CZ - ČT1">
+  <programme start="20261122035600 +0100" stop="20261122050700 +0100" channel="CZ - ČT1">
     <title lang="sk">Manéž Bolka Polívky</title>
     <desc lang="sk">Ojedinělá sestava hostů v předsilvestrovském vydání oblíbeného zábavného pořadu (2006). Spoluúčinkují: B. Hybner, P. Janda, J. Dvořák, A. Goldflam, M. Labuda, M. Jandová, Barin, Fretti... Režie: R. Chudoba, (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261122050000 +0100" stop="20261122053000 +0100" channel="CZ - ČT1">
+  <programme start="20261122050700 +0100" stop="20261122053800 +0100" channel="CZ - ČT1">
     <title lang="sk">Z metropole</title>
     <desc lang="sk">Souhrn toho nejdůležitějšího, co se událo v Praze v uplynulých sedmi dnech, (spravodajstvo)</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261122053000 +0100" stop="20261122060000 +0100" channel="CZ - ČT1">
+  <programme start="20261122053800 +0100" stop="20261122060000 +0100" channel="CZ - ČT1">
     <title lang="sk">Herbář</title>
     <desc lang="sk">Příroda, dobré jídlo, zdravá krajina, zahrada i člověk. A taky spousta nového! To je Herbář! Provází K. Winterová. Režie: J. Včela, (dokument)</desc>
     <category lang="sk">dokument</category>
@@ -3289,15 +3293,15 @@ Britský dokumentárny seriál (2018)., (dokument)</desc>
     <category lang="sk">seriál</category>
     <category lang="sk">krimi</category>
   </programme>
-  <programme start="20261122211200 +0100" stop="20261122215900 +0100" channel="CZ - ČT1">
+  <programme start="20261122211200 +0100" stop="20261122220000 +0100" channel="CZ - ČT1">
     <title lang="sk">Výborná SHOW</title>
     <desc lang="sk">Talk show Lucie Výborné s moderátorem a dramaturgem Pavlem Andělem, moderátorem Jiřím Pelnářem a reportérkou a bývalou atletkou Markétou Pernickou na téma "Jdi a zachraň to". Režie: J. Sommer, (zábava)</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261122215900 +0100" stop="20261122220200 +0100" channel="CZ - ČT1">
+  <programme start="20261122220000 +0100" stop="20261122220300 +0100" channel="CZ - ČT1">
     <title lang="sk">Výsledky losování Šťastných 10</title>
   </programme>
-  <programme start="20261122220200 +0100" stop="20261122225500 +0100" channel="CZ - ČT1">
+  <programme start="20261122220300 +0100" stop="20261122225500 +0100" channel="CZ - ČT1">
     <title lang="sk">Doktor Martin II (15/16)</title>
     <sub-title lang="sk">Porod</sub-title>
     <desc lang="sk">(Porod), Miroslav Donutil coby špičkový chirurg opět bravurně řeší zdravotní případy jako obvodní lékař v podhorském městečku v Beskydech. Se svou svéráznou povahou ale přesto stále naráží na další nečekané a často i úsměvné situace. Dále hrají: J. Čvančarová, N. Lichý, G. Marcinková, R. Mikluš, T. Měcháček, J. Štěpánková, V. Cibulková, M. Steinmasslová, M. Sidonová, R. Luknár... Scénář T. Končinský a Š. Titka. Kamera: M. Holman. Režie: P. Zahrádka, (seriál, komédia, dráma), stereo</desc>
@@ -3305,12 +3309,12 @@ Britský dokumentárny seriál (2018)., (dokument)</desc>
     <category lang="sk">dráma</category>
     <category lang="sk">komédia</category>
   </programme>
-  <programme start="20261122225500 +0100" stop="20261122234000 +0100" channel="CZ - ČT1">
+  <programme start="20261122225500 +0100" stop="20261122234100 +0100" channel="CZ - ČT1">
     <title lang="sk">Na kus řeči</title>
     <desc lang="sk">Slavná matka, slavná dcera a neméně slavný moderátor – to jsou Jiřina Bohdalová a Simona Stašová v pořadu Miroslava Donutila (2003). Režie: A. Vomáčka, (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261122234000 +0100" stop="20261123003000 +0100" channel="CZ - ČT1">
+  <programme start="20261122234100 +0100" stop="20261123003000 +0100" channel="CZ - ČT1">
     <title lang="sk">Případy detektiva Murdocha XVII (24)</title>
     <sub-title lang="sk">Vyšší dobro</sub-title>
     <desc lang="sk">(Vyšší dobro), Britsko-kanadský kriminální seriál o muži, který ví, že pokrok nezastavíš (2023). Hrají: Y. Bisson, T. Craig, H. Joyová, J. Harris, D. Maslany, L. K. Murdoch... Režie: Peter Mitchell, (seriál, dráma, krimi, fantastika), bilingual, 2024</desc>
@@ -3329,7 +3333,7 @@ V podzimním speciálu Toulavé kamery se moderátorská dvojice Iveta Toušlov�
     <display-name>ČT2</display-name>
     <icon src="https://web02.antik.sk/assets/img/channels/9a74edca24f901c1b44730cb8554f88f.svg" />
   </channel>
-  <programme start="20261122011800 +0100" stop="20261122014300 +0100" channel="CZ - ČT2">
+  <programme start="20261122011900 +0100" stop="20261122014300 +0100" channel="CZ - ČT2">
     <title lang="sk">Království divočiny: Včelojed chocholatý</title>
     <desc lang="sk">Neohrožený bojovník se sršněmi. Japonský dokumentární cyklus, (dokument), bilingual</desc>
     <category lang="sk">dokument</category>
@@ -3345,12 +3349,12 @@ Epizoda z dokumentárního cyklu mapujícího práci a zásadní případy slož
     <desc lang="sk">Děti se vydávají do rozpálené pouště, aby pátraly po tom, jak se tam Bůh staral po čtyřicet let o svůj lid (2013), (dokument), stereo</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261122023100 +0100" stop="20261122025700 +0100" channel="CZ - ČT2">
+  <programme start="20261122023100 +0100" stop="20261122025800 +0100" channel="CZ - ČT2">
     <title lang="sk">Čeští poutníci v Římě - Bazilika svaté Praxedy a okolí</title>
     <desc lang="sk">Návštěva míst spojených s českou historií (2021). Dokument J. K. Studničkové a O. M. Schmidta, (dokument), stereo</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261122025700 +0100" stop="20261122031300 +0100" channel="CZ - ČT2">
+  <programme start="20261122025800 +0100" stop="20261122031300 +0100" channel="CZ - ČT2">
     <title lang="sk">Vladimír Morávek, režisér</title>
     <desc lang="sk">O významné osobnosti českého divadla, televize a filmu (2005). Režie: J. Novák, (dokument), stereo</desc>
     <category lang="sk">dokument</category>
@@ -3382,12 +3386,12 @@ Další dokumentární série o novodobých českých zločinech. Případ manž
 Klíčové dopady klimatické změny pod drobnohledem. Jak posílit klimatickou odolnost české krajiny i tuzemských měst a obcí. Nová řada publicistického cyklu. Připravili M. Žák a D. Tichý, (dokument)</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261122051700 +0100" stop="20261122054500 +0100" channel="CZ - ČT2">
+  <programme start="20261122051700 +0100" stop="20261122054600 +0100" channel="CZ - ČT2">
     <title lang="sk">Křesťanský magazín</title>
     <desc lang="sk">Zajímavosti ze života víry. Uvádí P. Vychodilová, (dokument)</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261122054500 +0100" stop="20261122060000 +0100" channel="CZ - ČT2">
+  <programme start="20261122054600 +0100" stop="20261122060000 +0100" channel="CZ - ČT2">
     <title lang="sk">Zprávy v českém znakovém jazyce</title>
     <desc lang="sk">(spravodajstvo)</desc>
     <category lang="sk">spravodajstvo</category>
@@ -3461,23 +3465,23 @@ Poutník Jiří Svatopluk Novotný, Moravan tělem i duší, se svými výpravam
     <desc lang="sk">O putování po stopách hlubokých tradic a prastaré víry (2005). Režie: J. Šindar, (dokument), stereo</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261122132000 +0100" stop="20261122134800 +0100" channel="CZ - ČT2">
+  <programme start="20261122132000 +0100" stop="20261122134700 +0100" channel="CZ - ČT2">
     <title lang="sk">Na plovárně s Jesse Eisenbergem</title>
     <desc lang="sk">Jubilejní tisící díl oblíbené Plovárny Marka Ebena, tentokrát s americkým hercem, scenáristou a režisérem. Režie: J. Hojtaš, (zábava)</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261122134800 +0100" stop="20261122144100 +0100" channel="CZ - ČT2">
+  <programme start="20261122134700 +0100" stop="20261122144100 +0100" channel="CZ - ČT2">
     <title lang="sk">Ještě než zmizí</title>
     <desc lang="sk">Naprosto unikátní cesta Jakuba Vágnera a jeho štábu za vzácnými kmeny, které divoce žijí v těch nejodlehlejších místech naší planety. V amazonském pralese se potkáme s kmeny Huaorani, Waorani a Taromenane (2021). Režie: J. Vomáčka a J. Vágner, (dokument)</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261122144100 +0100" stop="20261122153400 +0100" channel="CZ - ČT2">
+  <programme start="20261122144100 +0100" stop="20261122153300 +0100" channel="CZ - ČT2">
     <title lang="sk">Divoká říše (3/3)</title>
     <desc lang="sk">Jün-nanští sloni
 Tři příběhy o jedinečných zvířatech nás zavedou na pozoruhodná místa Číny. Poznáme divokou říši legendárních zlatých opic – langurů čínských, vydáme se na Tibetskou náhorní plošinu za antilopami orongo a se slony poputujeme daleko od jejich domovské rezervace v provincii Jün-nan. Koprodukční dokumentární triptych, (dokument), bilingual</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261122153400 +0100" stop="20261122155800 +0100" channel="CZ - ČT2">
+  <programme start="20261122153300 +0100" stop="20261122155800 +0100" channel="CZ - ČT2">
     <title lang="sk">Království divočiny: Národní park Širetoko</title>
     <desc lang="sk">Zdejší bohaté porosty mořských řas poskytují útočiště nejrůznějšímu rybímu dorostu. Japonský dokumentární cyklus, (dokument), bilingual</desc>
     <category lang="sk">dokument</category>
@@ -3504,18 +3508,18 @@ V Istanbulu, na pomezí Evropy a Asie, se nachází jedna z nejpůsobivějších
 Nejzajímavější stavební projekty realizované na našem území od vzniku samostatné České republiky. Připravili P. Miškejová a S. Schneeweis, (dokument)</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261122181700 +0100" stop="20261122190200 +0100" channel="CZ - ČT2">
+  <programme start="20261122181700 +0100" stop="20261122190100 +0100" channel="CZ - ČT2">
     <title lang="sk">Blyštivá historie Svatého Mořice</title>
     <desc lang="sk">Pohádková zimní krajina lemovaná alpskými štíty obklopuje jedno z nejpřepychovějších rekreačních středisek ve švýcarských Alpách. Německý dokument, (dokument), bilingual</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261122190200 +0100" stop="20261122192200 +0100" channel="CZ - ČT2">
+  <programme start="20261122190100 +0100" stop="20261122192100 +0100" channel="CZ - ČT2">
     <title lang="sk">Zašlapané projekty</title>
     <desc lang="sk">Zánik továrny EMBO
 Zničující kampaň pohřbila smělé sny ostravského podnikatele Bojdy. Dokument z cyklu o unikátních nápadech, projektech a objevech, které za minulého režimu nesměly spatřit světlo světa (2009). Připravili M. Hýža a P. Lokaj, (dokument), stereo</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261122192200 +0100" stop="20261122195000 +0100" channel="CZ - ČT2">
+  <programme start="20261122192100 +0100" stop="20261122195000 +0100" channel="CZ - ČT2">
     <title lang="sk">Zajímavosti z regionů</title>
     <desc lang="sk">Události a informace z kraje, v němž žijete, (spravodajstvo)</desc>
     <category lang="sk">spravodajstvo</category>
@@ -3527,13 +3531,11 @@ Zničující kampaň pohřbila smělé sny ostravského podnikatele Bojdy. Dokum
   </programme>
   <programme start="20261122200000 +0100" stop="20261122214000 +0100" channel="CZ - ČT2">
     <title lang="sk">Poslední vůz</title>
-    <desc lang="sk">V divočině plné nepřátel je jejich jediným spojencem vrah. Americký western (1956). Hrají: R. Widmark. F. Farraová, S. Kohnerová, T. Retting, S. Griffinová... Režie: Delmer Daves, (film, western, dráma, dobrodružstvo), bilingual, USA, 1956</desc>
+    <desc lang="sk">V divočině plné nepřátel je jejich jediným spojencem vrah. Americký western (1956). Hrají: R. Widmark. F. Farraová, S. Kohnerová, T. Retting, S. Griffinová... Režie: Delmer Daves, (film, western), bilingual, USA, 1956</desc>
     <category lang="sk">film</category>
-    <category lang="sk">dráma</category>
-    <category lang="sk">dobrodružstvo</category>
     <category lang="sk">western</category>
   </programme>
-  <programme start="20261122214000 +0100" stop="20261122232700 +0100" channel="CZ - ČT2">
+  <programme start="20261122214000 +0100" stop="20261122232500 +0100" channel="CZ - ČT2">
     <title lang="sk">MIKI</title>
     <desc lang="sk">Jak vysoká je cena za to stát se bossem všech bossů? Příběh vládce slovenského podsvětí 90. let Mikuláše "Mikiho" Černáka ve slovensko-českém kriminálním filmu (2024). Hrají: M. Ondrík, D. Cinkota, G. Hološka, M. Nahálka, R. Poláková, M. Kubovčík, A. Javorková... Režie: Jakub Kroner, (film, thriller, dráma, akcia, krimi), bilingual, Slovensko, Česká republika, 2024</desc>
     <category lang="sk">film</category>
@@ -3542,12 +3544,12 @@ Zničující kampaň pohřbila smělé sny ostravského podnikatele Bojdy. Dokum
     <category lang="sk">akcia</category>
     <category lang="sk">krimi</category>
   </programme>
-  <programme start="20261122232700 +0100" stop="20261123005700 +0100" channel="CZ - ČT2">
+  <programme start="20261122232500 +0100" stop="20261123005600 +0100" channel="CZ - ČT2">
     <title lang="sk">Atentát na J. F. Kennedyho: Svědectví lékařů</title>
     <desc lang="sk">Sedm lékařů, kteří byli na pohotovosti během marné snahy zachránit americkému prezidentovi v roce 1963 život, odhalilo podrobnosti o atentátu. Americký dokument, (dokument), bilingual</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261123005700 +0100" stop="20261123015500 +0100" channel="CZ - ČT2">
+  <programme start="20261123005600 +0100" stop="20261123015500 +0100" channel="CZ - ČT2">
     <title lang="sk">80 rozlícených novinářů</title>
     <desc lang="sk">Když se vládě Viktora Orbána podařilo ovládnout Index, jedno z nejvýznamnějších nezávislých médií v Maďarsku, jeho reportéři a editoři se tomu bránili všemi dostupnými prostředky. Jeden z nich, režisér András Földes, o tom natočil strhující dokumentární film, (spravodajstvo)</desc>
     <category lang="sk">spravodajstvo</category>
@@ -3972,30 +3974,30 @@ Zničující kampaň pohřbila smělé sny ostravského podnikatele Bojdy. Dokum
   </programme>
   <channel id="CZ - CNN PRIMA NEWS">
     <display-name>CNN Prima News</display-name>
-    <icon src="https://web02.antik.sk/assets/img/channels/4debe2ab2b523d9882fa869e820584f7.svg" />
+    <icon src="https://web02.antik.sk/assets/img/channels/beac74e18415c0d9f56926529f4001d5.svg" />
   </channel>
-  <programme start="20261122012000 +0100" stop="20261122015000 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261122012500 +0100" stop="20261122015500 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">Hlasy zločinu</title>
     <desc lang="sk">Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261122015000 +0100" stop="20261122024000 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261122015500 +0100" stop="20261122023500 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">Co na to vaše zdraví</title>
     <desc lang="sk">Panické ataky + Homeopatie
 Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261122024000 +0100" stop="20261122034500 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261122023500 +0100" stop="20261122033000 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">HLAVNÍ ZPRÁVY</title>
     <desc lang="sk">Ty nejdůležitější aktuální zprávy z domova i ze světa v hlavní zpravodajské relaci. Atraktivně a srozumitelně., (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261122034500 +0100" stop="20261122040500 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261122033000 +0100" stop="20261122041500 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">SHOWTIME</title>
     <desc lang="sk">Exkluzivní zákulisí života celebrit – luxusní večírky, žhavé drby, slavnostní premiéry a módní trendy!, (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261122040500 +0100" stop="20261122055500 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261122041500 +0100" stop="20261122055500 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">Zpravodajské centrum</title>
     <desc lang="sk">Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
@@ -4025,12 +4027,12 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <desc lang="sk">Cestujte s námi po Česku a poznejte nejzajímavější místa naší země., (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261122110000 +0100" stop="20261122115500 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261122110000 +0100" stop="20261122120000 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">PARTIE Terezie Tománkové</title>
     <desc lang="sk">Tah dámou!, (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261122115500 +0100" stop="20261122130000 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261122120000 +0100" stop="20261122130000 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">PARTIE Terezie Tománkové</title>
     <desc lang="sk">Politická debata Terezie Tománkové na témata, která hýbou společností., (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
@@ -4060,12 +4062,12 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <desc lang="sk">Aktuální události z oblasti kriminality. Zločiny očima profesionálů, zkušených reportérů i diváků., (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261122165500 +0100" stop="20261122173500 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261122165500 +0100" stop="20261122173000 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">Zprávy z regionů</title>
     <desc lang="sk">Aktuální zprávy ze všech regionů České republiky. Události, zajímavé příběhy, témata vašeho kraje., (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261122173500 +0100" stop="20261122175500 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261122173000 +0100" stop="20261122175500 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">Prima PODZIM</title>
     <desc lang="sk">Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
@@ -4090,27 +4092,27 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <desc lang="sk">Pořad je opatřen skrytými titulky (ST), (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261122194500 +0100" stop="20261122213000 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261122194500 +0100" stop="20261122212500 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">Zpravodajské centrum</title>
     <desc lang="sk">Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261122213000 +0100" stop="20261122220000 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261122212500 +0100" stop="20261122220000 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">Spáleniště... Příběhy hasičů</title>
     <desc lang="sk">Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261122220000 +0100" stop="20261122225000 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261122220000 +0100" stop="20261122225500 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">Zprávy</title>
     <desc lang="sk">Ty nejnovější ověřené zprávy z domova i ze světa. Rychle, stručně a srozumitelně., (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261122225000 +0100" stop="20261123000000 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261122225500 +0100" stop="20261123001000 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">PARTIE Terezie Tománkové</title>
     <desc lang="sk">Tah dámou!, (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261123000000 +0100" stop="20261123012000 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261123001000 +0100" stop="20261123012000 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">PARTIE Terezie Tománkové</title>
     <desc lang="sk">Politická debata Terezie Tománkové na témata, která hýbou společností., (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
@@ -4644,7 +4646,7 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
   </programme>
   <channel id="215-barrandov">
     <display-name>Barrandov</display-name>
-    <icon src="https://web02.antik.sk/assets/img/channels/eb17bab82adf3c2056f3ec895cc2c0f4.svg" />
+    <icon src="https://web02.antik.sk/assets/img/channels/0df71aced13ad5a0767b3a29fd15b285.svg" />
   </channel>
   <programme start="20261122020500 +0100" stop="20261122033000 +0100" channel="215-barrandov">
     <title lang="sk">Na plac!</title>
@@ -4785,7 +4787,7 @@ Jiří Babica představuje jednoduché a chutné recepty s tím, co máte doma, 
   </programme>
   <channel id="Barrandov Kino ">
     <display-name>Kino Barrandov</display-name>
-    <icon src="https://web02.antik.sk/assets/img/channels/b80d688ded8ff36547d06cf81d01e3d7.svg" />
+    <icon src="https://web02.antik.sk/assets/img/channels/9ac7f83baba5cdfb2b35ad1eb0ba4379.svg" />
   </channel>
   <programme start="20261122010500 +0100" stop="20261122031000 +0100" channel="Barrandov Kino ">
     <title lang="sk">Ostříháno</title>
@@ -4902,7 +4904,7 @@ Jiří Babica představuje jednoduché a chutné recepty s tím, co máte doma, 
   </programme>
   <channel id="Barrandov.Krimi.HD.sk">
     <display-name>Barrandov Krimi</display-name>
-    <icon src="https://web02.antik.sk/assets/img/channels/9ec7fff6c8093d35c3b210b3980cb74e.svg" />
+    <icon src="https://web02.antik.sk/assets/img/channels/8d7ff3a199dde02b11e916a5e5bd7642.svg" />
   </channel>
   <programme start="20261122041000 +0100" stop="20261122051000 +0100" channel="Barrandov.Krimi.HD.sk">
     <title lang="sk">Exkluziv!</title>
