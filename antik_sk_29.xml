@@ -809,18 +809,18 @@ Nové mamy, nové pravidlá., (zábava)</desc>
 Skutočné príbehy ľudí, ktorým sa život vymkol z rúk., (dokument)</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261123113500 +0100" stop="20261123133000 +0100" channel="MARKÍZA.cz">
+  <programme start="20261123113500 +0100" stop="20261123133500 +0100" channel="MARKÍZA.cz">
     <title lang="sk">Farma XVIII (54)</title>
     <desc lang="sk">Reality šou, SR (2026). Moderuje Marek Fašiang., (zábava)</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261123133000 +0100" stop="20261123160500 +0100" channel="MARKÍZA.cz">
+  <programme start="20261123133500 +0100" stop="20261123160000 +0100" channel="MARKÍZA.cz">
     <title lang="sk">Farma XVIII (55)</title>
     <desc lang="sk">DUEL
 Reality šou, SR (2026). Moderuje Marek Fašiang., (zábava)</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261123160500 +0100" stop="20261123170000 +0100" channel="MARKÍZA.cz">
+  <programme start="20261123160000 +0100" stop="20261123170000 +0100" channel="MARKÍZA.cz">
     <title lang="sk">Rodinné prípady (22)</title>
     <desc lang="sk">Nová rodina
 Skutočné príbehy ľudí, ktorým sa život vymkol z rúk., (dokument)</desc>
@@ -881,13 +881,13 @@ Skutočné príbehy ľudí, ktorým sa život vymkol z rúk., (dokument)</desc>
     <desc lang="sk">Reality šou, SR (2026). Moderuje Marek Fašiang., (zábava)</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261123231000 +0100" stop="20261124003000 +0100" channel="MARKÍZA.cz">
+  <programme start="20261123231000 +0100" stop="20261124003500 +0100" channel="MARKÍZA.cz">
     <title lang="sk">Utajený šéf I (3)</title>
     <desc lang="sk">Synot Holiday
 Reality šou., (zábava)</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261124003000 +0100" stop="20261124012500 +0100" channel="MARKÍZA.cz">
+  <programme start="20261124003500 +0100" stop="20261124013500 +0100" channel="MARKÍZA.cz">
     <title lang="sk">Kobra 11 XXV (9)</title>
     <sub-title lang="sk">Dedičstvo</sub-title>
     <desc lang="sk">(Dedičstvo), Akčný seriál, Nemecko (2019-2020). Hrajú: E. Atalay, D. Roesner., (seriál, thriller, dráma, akcia, dobrodružstvo, krimi), 2019</desc>
@@ -991,13 +991,13 @@ Reality šou., (zábava)</desc>
     <category lang="sk">seriál</category>
     <category lang="sk">rodinný</category>
   </programme>
-  <programme start="20261123140500 +0100" stop="20261123151000 +0100" channel="DOMA.cz">
+  <programme start="20261123140500 +0100" stop="20261123151500 +0100" channel="DOMA.cz">
     <title lang="sk">Dcéry pani Fazilet (135)</title>
     <desc lang="sk">Romantický seriál, Turecko (2017-2018). Hrajú: N. Kesalová, Ç. Ertugrul, D. Baysalová, A. Saraçogluová, A. Navruz, M. Günşiray., (seriál, dráma)</desc>
     <category lang="sk">seriál</category>
     <category lang="sk">dráma</category>
   </programme>
-  <programme start="20261123151000 +0100" stop="20261123160500 +0100" channel="DOMA.cz">
+  <programme start="20261123151500 +0100" stop="20261123160500 +0100" channel="DOMA.cz">
     <title lang="sk">Dcéry pani Fazilet (136)</title>
     <desc lang="sk">Romantický seriál, Turecko (2017-2018). Hrajú: N. Kesalová, Ç. Ertugrul, D. Baysalová, A. Saraçogluová, A. Navruz, M. Günşiray., (seriál, dráma)</desc>
     <category lang="sk">seriál</category>
@@ -1048,7 +1048,7 @@ Reality šou., (zábava)</desc>
     <desc lang="sk">Recepty šéfkuchára Marcela Ihnačáka a skúsenej cukrárky Veroniky Bušovej., (zábava)</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261123210500 +0100" stop="20261123213500 +0100" channel="DOMA.cz">
+  <programme start="20261123210500 +0100" stop="20261123214000 +0100" channel="DOMA.cz">
     <title lang="sk">Frasier VII (17)</title>
     <sub-title lang="sk">Zrada ve vinařském klubu</sub-title>
     <desc lang="sk">(Zrada ve vinařském klubu), Sitkom, USA (1999-2000). V hlavnej úlohe K. Grammer., (seriál, komédia, romantika), USA, 2000</desc>
@@ -1056,7 +1056,7 @@ Reality šou., (zábava)</desc>
     <category lang="sk">komédia</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261123213500 +0100" stop="20261123220500 +0100" channel="DOMA.cz">
+  <programme start="20261123214000 +0100" stop="20261123220500 +0100" channel="DOMA.cz">
     <title lang="sk">Frasier VII (18)</title>
     <sub-title lang="sk">Šakali na lovu</sub-title>
     <desc lang="sk">(Šakali na lovu), Sitkom, USA (1999-2000). V hlavnej úlohe K. Grammer., (seriál, komédia, romantika), USA, 2000</desc>
@@ -1088,7 +1088,7 @@ Reality šou., (zábava)</desc>
     <category lang="sk">dráma</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261124000500 +0100" stop="20261124010000 +0100" channel="DOMA.cz">
+  <programme start="20261124000500 +0100" stop="20261124010500 +0100" channel="DOMA.cz">
     <title lang="sk">Láska na prvý omyl (109)</title>
     <sub-title lang="sk">Co je se smlouvou?</sub-title>
     <desc lang="sk">(Co je se smlouvou?), Romantický seriál, Turecko (2016-2017). Hrajú: D. Özdemirová, F. Palal?, S. Yavrucuková, G. Özyol, Ö. Tokaslanová, C. Ercan., (seriál, komédia, romantika)</desc>
@@ -1161,19 +1161,19 @@ Reality šou., (zábava)</desc>
 Zábavná šou, SR (2015). Účinkujú: P. Polnišová, Z. Šebová, M. Kubovčík, S. Malachovský., (zábava)</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261123084500 +0100" stop="20261123093000 +0100" channel="DAJTO.cz">
+  <programme start="20261123084500 +0100" stop="20261123093500 +0100" channel="DAJTO.cz">
     <title lang="sk">Partička (16)</title>
     <desc lang="sk">Záruka najlepšej zábavy., (zábava)</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261123093000 +0100" stop="20261123104000 +0100" channel="DAJTO.cz">
+  <programme start="20261123093500 +0100" stop="20261123104500 +0100" channel="DAJTO.cz">
     <title lang="sk">Horná Dolná IX (2)</title>
-    <sub-title lang="sk">Poistka</sub-title>
-    <desc lang="sk">(Poistka), Komediálny seriál, SR (2019). Hrajú: P. Polnišová, Z. Kubovčíková Šebová, D. Heriban, P. Brajerčík, M. Majeský, M. Sládečková, M. Kubovčík, P. Sklár., (seriál, komédia)</desc>
+    <sub-title lang="sk">Barón</sub-title>
+    <desc lang="sk">(Barón), Komediálny seriál, SR (2019). Hrajú: P. Polnišová, Z. Kubovčíková Šebová, D. Heriban, P. Brajerčík, M. Majeský, M. Sládečková, M. Kubovčík, P. Sklár., (seriál, komédia)</desc>
     <category lang="sk">seriál</category>
     <category lang="sk">komédia</category>
   </programme>
-  <programme start="20261123104000 +0100" stop="20261123111500 +0100" channel="DAJTO.cz">
+  <programme start="20261123104500 +0100" stop="20261123112000 +0100" channel="DAJTO.cz">
     <title lang="sk">Dva a pol chlapa VIII (14)</title>
     <sub-title lang="sk">Pátrání po japonských ponorkách</sub-title>
     <desc lang="sk">(Pátrání po japonských ponorkách), Sitkom, USA (2010-2011). Hrajú: Ch. Sheen, J. Cryer, A. T. Jones, C. Ferrellová., (seriál, komédia, romantika), 2011</desc>
@@ -1181,7 +1181,7 @@ Zábavná šou, SR (2015). Účinkujú: P. Polnišová, Z. Šebová, M. Kubovč�
     <category lang="sk">komédia</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261123111500 +0100" stop="20261123113500 +0100" channel="DAJTO.cz">
+  <programme start="20261123112000 +0100" stop="20261123114000 +0100" channel="DAJTO.cz">
     <title lang="sk">Dva a pol chlapa VIII (15)</title>
     <sub-title lang="sk">Rozchod</sub-title>
     <desc lang="sk">(Rozchod), Sitkom, USA (2010-2011). Hrajú: Ch. Sheen, J. Cryer, A. T. Jones, C. Ferrellová., (seriál, komédia, romantika), USA, 2011</desc>
@@ -1189,7 +1189,7 @@ Zábavná šou, SR (2015). Účinkujú: P. Polnišová, Z. Šebová, M. Kubovč�
     <category lang="sk">komédia</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261123113500 +0100" stop="20261123115500 +0100" channel="DAJTO.cz">
+  <programme start="20261123114000 +0100" stop="20261123115500 +0100" channel="DAJTO.cz">
     <title lang="sk">Dva a pol chlapa VIII (16)</title>
     <sub-title lang="sk">Veľký lietajúci bastardi</sub-title>
     <desc lang="sk">(Veľký lietajúci bastardi), Sitkom, USA (2010-2011). Hrajú: Ch. Sheen, J. Cryer, A. T. Jones, C. Ferrellová., (seriál, komédia, romantika), USA, 2011</desc>
@@ -1197,7 +1197,7 @@ Zábavná šou, SR (2015). Účinkujú: P. Polnišová, Z. Šebová, M. Kubovč�
     <category lang="sk">komédia</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261123115500 +0100" stop="20261123123500 +0100" channel="DAJTO.cz">
+  <programme start="20261123115500 +0100" stop="20261123124000 +0100" channel="DAJTO.cz">
     <title lang="sk">Dva a pol chlapa IX (1)</title>
     <sub-title lang="sk">Prvé kolo vyhrala sexy kočka</sub-title>
     <desc lang="sk">(Prvé kolo vyhrala sexy kočka), Sitkom, USA (2011-2012). Hrajú: A. Kutcher, J. Cryer, A. T. Jones., (seriál, komédia, romantika), USA, 2011</desc>
@@ -1205,7 +1205,7 @@ Zábavná šou, SR (2015). Účinkujú: P. Polnišová, Z. Šebová, M. Kubovč�
     <category lang="sk">komédia</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261123123500 +0100" stop="20261123125500 +0100" channel="DAJTO.cz">
+  <programme start="20261123124000 +0100" stop="20261123130000 +0100" channel="DAJTO.cz">
     <title lang="sk">Teória veľkého tresku IX (10)</title>
     <sub-title lang="sk">Kompenzácia odmietnutia</sub-title>
     <desc lang="sk">(Kompenzácia odmietnutia), Sitkom, USA (2015-2016). Hrajú: J. Galecki, J. Parsons, K. Cuocová., (seriál, komédia, romantika), USA, 2015</desc>
@@ -1213,7 +1213,7 @@ Zábavná šou, SR (2015). Účinkujú: P. Polnišová, Z. Šebová, M. Kubovč�
     <category lang="sk">komédia</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261123125500 +0100" stop="20261123134000 +0100" channel="DAJTO.cz">
+  <programme start="20261123130000 +0100" stop="20261123134500 +0100" channel="DAJTO.cz">
     <title lang="sk">Teória veľkého tresku IX (11)</title>
     <sub-title lang="sk">Očakávania premiérovej noci</sub-title>
     <desc lang="sk">(Očakávania premiérovej noci), Sitkom, USA (2015-2016). Hrajú: J. Galecki, J. Parsons, K. Cuocová., (seriál, komédia, romantika), USA, 2015</desc>
@@ -1221,7 +1221,7 @@ Zábavná šou, SR (2015). Účinkujú: P. Polnišová, Z. Šebová, M. Kubovč�
     <category lang="sk">komédia</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261123134000 +0100" stop="20261123140500 +0100" channel="DAJTO.cz">
+  <programme start="20261123134500 +0100" stop="20261123141000 +0100" channel="DAJTO.cz">
     <title lang="sk">Teória veľkého tresku IX (12)</title>
     <sub-title lang="sk">Transformácia obchodného stretnutia</sub-title>
     <desc lang="sk">(Transformácia obchodného stretnutia), Sitkom, USA (2015-2016). Hrajú: J. Galecki, J. Parsons, K. Cuocová., (seriál, komédia, romantika), USA, 2016</desc>
@@ -1229,7 +1229,7 @@ Zábavná šou, SR (2015). Účinkujú: P. Polnišová, Z. Šebová, M. Kubovč�
     <category lang="sk">komédia</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261123140500 +0100" stop="20261123143000 +0100" channel="DAJTO.cz">
+  <programme start="20261123141000 +0100" stop="20261123143500 +0100" channel="DAJTO.cz">
     <title lang="sk">Teória veľkého tresku IX (13)</title>
     <sub-title lang="sk">Svojrázne prejavy empatie</sub-title>
     <desc lang="sk">(Svojrázne prejavy empatie), Sitkom, USA (2015-2016). Hrajú: J. Galecki, J. Parsons, K. Cuocová., (seriál, komédia, romantika), USA, 2016</desc>
@@ -1237,7 +1237,7 @@ Zábavná šou, SR (2015). Účinkujú: P. Polnišová, Z. Šebová, M. Kubovč�
     <category lang="sk">komédia</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261123143000 +0100" stop="20261123145500 +0100" channel="DAJTO.cz">
+  <programme start="20261123143500 +0100" stop="20261123145500 +0100" channel="DAJTO.cz">
     <title lang="sk">Teória veľkého tresku IX (14)</title>
     <sub-title lang="sk">Pritransportovanie babičky</sub-title>
     <desc lang="sk">(Pritransportovanie babičky), Sitkom, USA (2015-2016). Hrajú: J. Galecki, J. Parsons, K. Cuocová., (seriál, komédia, romantika), USA, 2016</desc>
@@ -1269,7 +1269,7 @@ Zábavná šou, SR (2015). Účinkujú: P. Polnišová, Z. Šebová, M. Kubovč�
     <category lang="sk">komédia</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261123162500 +0100" stop="20261123165000 +0100" channel="DAJTO.cz">
+  <programme start="20261123162500 +0100" stop="20261123165500 +0100" channel="DAJTO.cz">
     <title lang="sk">Dva a pol chlapa IX (2)</title>
     <sub-title lang="sk">To bola slina Alana</sub-title>
     <desc lang="sk">(To bola slina Alana), Sitkom, USA (2011-2012). Hrajú: A. Kutcher, J. Cryer, A. T. Jones., (seriál, komédia, romantika), USA, 2011</desc>
@@ -1277,7 +1277,7 @@ Zábavná šou, SR (2015). Účinkujú: P. Polnišová, Z. Šebová, M. Kubovč�
     <category lang="sk">komédia</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261123165000 +0100" stop="20261123172000 +0100" channel="DAJTO.cz">
+  <programme start="20261123165500 +0100" stop="20261123172000 +0100" channel="DAJTO.cz">
     <title lang="sk">Dva a pol chlapa IX (3)</title>
     <sub-title lang="sk">Velké holky s jídlem neházejí</sub-title>
     <desc lang="sk">(Velké holky s jídlem neházejí), Sitkom, USA (2011-2012). Hrajú: A. Kutcher, J. Cryer, A. T. Jones., (seriál, komédia, romantika), USA, 2011</desc>
@@ -1316,14 +1316,14 @@ Zábavná šou, SR (2015). Účinkujú: P. Polnišová, Z. Šebová, M. Kubovč�
     <desc lang="sk">(šport)</desc>
     <category lang="sk">šport</category>
   </programme>
-  <programme start="20261123203000 +0100" stop="20261123223000 +0100" channel="DAJTO.cz">
+  <programme start="20261123203000 +0100" stop="20261123223500 +0100" channel="DAJTO.cz">
     <title lang="sk">Cudzinec</title>
     <desc lang="sk">Akčný triler, USA-Poľsko (2003). Réžia M. Oblowitz. Hrajú: S. Seagal, M. Ryan, S. Augustus, A. L. Plowmanová, H. Van Gorkum, J. Pierce., (film, akcia, dobrodružstvo), USA, 2003</desc>
     <category lang="sk">film</category>
     <category lang="sk">akcia</category>
     <category lang="sk">dobrodružstvo</category>
   </programme>
-  <programme start="20261123223000 +0100" stop="20261124002500 +0100" channel="DAJTO.cz">
+  <programme start="20261123223500 +0100" stop="20261124003000 +0100" channel="DAJTO.cz">
     <title lang="sk">Americký ninja</title>
     <desc lang="sk">Akčný film, USA (1985). Réžia S. Firstenberg. Hrajú: M. Dudikoff, S. James, J. Aronsonová, G. Koock, J. Fujioka., (film, akcia, dobrodružstvo, romantika), USA, 1985</desc>
     <category lang="sk">film</category>
@@ -1331,12 +1331,12 @@ Zábavná šou, SR (2015). Účinkujú: P. Polnišová, Z. Šebová, M. Kubovč�
     <category lang="sk">dobrodružstvo</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261124002500 +0100" stop="20261124005000 +0100" channel="DAJTO.cz">
+  <programme start="20261124003000 +0100" stop="20261124005500 +0100" channel="DAJTO.cz">
     <title lang="sk">Dajto v pokri z Card Casina (95)</title>
     <desc lang="sk">(šport)</desc>
     <category lang="sk">šport</category>
   </programme>
-  <programme start="20261124005000 +0100" stop="20261124010500 +0100" channel="DAJTO.cz">
+  <programme start="20261124005500 +0100" stop="20261124010500 +0100" channel="DAJTO.cz">
     <title lang="sk">Športové noviny</title>
     <desc lang="sk">To najlepšie a najzaujímavejšie z domáceho a svetového športu., (spravodajstvo)</desc>
     <category lang="sk">spravodajstvo</category>
@@ -1637,7 +1637,7 @@ Reálni strážcovia zákona, skutočné príbehy, autentické zásahy., (zábav
     <category lang="sk">seriál</category>
     <category lang="sk">krimi</category>
   </programme>
-  <programme start="20261123130500 +0100" stop="20261123134500 +0100" channel="Markíza KLASIK.cz">
+  <programme start="20261123130500 +0100" stop="20261123135000 +0100" channel="Markíza KLASIK.cz">
     <title lang="sk">Herkules VI (8)</title>
     <desc lang="sk">Dobrodružný seriál, USA-Nový Zéland (1999). V hlavnej úlohe K. Sorbo., (seriál, dráma, akcia, dobrodružstvo), 1999</desc>
     <category lang="sk">seriál</category>
@@ -1645,7 +1645,7 @@ Reálni strážcovia zákona, skutočné príbehy, autentické zásahy., (zábav
     <category lang="sk">akcia</category>
     <category lang="sk">dobrodružstvo</category>
   </programme>
-  <programme start="20261123134500 +0100" stop="20261123144500 +0100" channel="Markíza KLASIK.cz">
+  <programme start="20261123135000 +0100" stop="20261123145000 +0100" channel="Markíza KLASIK.cz">
     <title lang="sk">Pobrežná hliadka IX (5)</title>
     <sub-title lang="sk">Vrozený talent</sub-title>
     <desc lang="sk">(Vrozený talent), Seriál, USA (1998-1999). Hrajú: D. Hasselhoff, M. Kaptureová, D. Chokachi, K. Packardová, M. Bergin., (seriál, dráma, akcia, dobrodružstvo), USA, 1998</desc>
@@ -1654,7 +1654,7 @@ Reálni strážcovia zákona, skutočné príbehy, autentické zásahy., (zábav
     <category lang="sk">akcia</category>
     <category lang="sk">dobrodružstvo</category>
   </programme>
-  <programme start="20261123144500 +0100" stop="20261123154000 +0100" channel="Markíza KLASIK.cz">
+  <programme start="20261123145000 +0100" stop="20261123154500 +0100" channel="Markíza KLASIK.cz">
     <title lang="sk">Pobrežná hliadka IX (6)</title>
     <sub-title lang="sk">Marné naděje</sub-title>
     <desc lang="sk">(Marné naděje), Seriál, USA (1998-1999). Hrajú: D. Hasselhoff, M. Kaptureová, D. Chokachi, K. Packardová, M. Bergin., (seriál, dráma, akcia, dobrodružstvo), USA, 1998</desc>
@@ -1663,7 +1663,7 @@ Reálni strážcovia zákona, skutočné príbehy, autentické zásahy., (zábav
     <category lang="sk">akcia</category>
     <category lang="sk">dobrodružstvo</category>
   </programme>
-  <programme start="20261123154000 +0100" stop="20261123163500 +0100" channel="Markíza KLASIK.cz">
+  <programme start="20261123154500 +0100" stop="20261123163500 +0100" channel="Markíza KLASIK.cz">
     <title lang="sk">Pobrežná hliadka IX (7)</title>
     <sub-title lang="sk">Horká letní noc</sub-title>
     <desc lang="sk">(Horká letní noc), Seriál, USA (1998-1999). Hrajú: D. Hasselhoff, M. Kaptureová, D. Chokachi, K. Packardová, M. Bergin., (seriál, dráma, akcia, dobrodružstvo), USA, 1998</desc>
@@ -1733,7 +1733,7 @@ Reálni strážcovia zákona, skutočné príbehy, autentické zásahy., (zábav
     <category lang="sk">komédia</category>
     <category lang="sk">scifi</category>
   </programme>
-  <programme start="20261123230500 +0100" stop="20261123233500 +0100" channel="Markíza KLASIK.cz">
+  <programme start="20261123230500 +0100" stop="20261123234000 +0100" channel="Markíza KLASIK.cz">
     <title lang="sk">M.A.S.H XI (13)</title>
     <sub-title lang="sk">Priatelia a nepriatelia</sub-title>
     <desc lang="sk">(Priatelia a nepriatelia), Komediálny seriál, USA (1982-1983). Hrajú: A. Alda, M. Farrell, H. Morgan, L. Switová, D. O. Stiers, J. Farr., (seriál, komédia, dráma, vojnový), USA, 1983</desc>
@@ -1742,7 +1742,7 @@ Reálni strážcovia zákona, skutočné príbehy, autentické zásahy., (zábav
     <category lang="sk">komédia</category>
     <category lang="sk">vojnový</category>
   </programme>
-  <programme start="20261123233500 +0100" stop="20261124003000 +0100" channel="Markíza KLASIK.cz">
+  <programme start="20261123234000 +0100" stop="20261124003000 +0100" channel="Markíza KLASIK.cz">
     <title lang="sk">Walker, texaský ranger I (11)</title>
     <sub-title lang="sk">Najprv nech pláva po prúde</sub-title>
     <desc lang="sk">(Najprv nech pláva po prúde), Kriminálny seriál, USA (1993-1994). V hlavnej úlohe Ch. Norris., (seriál, western, komédia, dráma, akcia, krimi), 1993</desc>
@@ -2825,37 +2825,37 @@ Záznam zo zápasu MS 2026 vo futbale. Spojené štáty americké (2026)., (špo
     <display-name>JOJ Šport</display-name>
     <icon src="https://web02.antik.sk/assets/img/channels/54fbaca022052183413574a6c79b70b1.svg" />
   </channel>
-  <programme start="20261123023000 +0100" stop="20261123065000 +0100" channel="CZ - JOJ ŠPORT">
+  <programme start="20261123024000 +0100" stop="20261123065500 +0100" channel="CZ - JOJ ŠPORT">
     <title lang="sk">Footgolf</title>
     <desc lang="sk">Feal Alux Open 2026
 Záznam prestížneho footgolfového podujatia Feal Alux Open 2026., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
-  <programme start="20261123065000 +0100" stop="20261123092000 +0100" channel="CZ - JOJ ŠPORT">
+  <programme start="20261123065500 +0100" stop="20261123091000 +0100" channel="CZ - JOJ ŠPORT">
     <title lang="sk">Hokej - Reprezentácia</title>
     <desc lang="sk">Nemecký pohár: Lotyšsko - Slovensko
 Záznam hokejového zápasu Nemeckého pohára., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
-  <programme start="20261123092000 +0100" stop="20261123113500 +0100" channel="CZ - JOJ ŠPORT">
+  <programme start="20261123091000 +0100" stop="20261123114000 +0100" channel="CZ - JOJ ŠPORT">
     <title lang="sk">Basketbal Reprezentácia ženy</title>
     <desc lang="sk">Kvalifikácia na ME 2027 ženy: Slovensko - Srbsko
 Záznam kvalifikačného basketbalového zápasu ženskej reprezentácie na Majstrovstvá Európy 2027., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
-  <programme start="20261123113500 +0100" stop="20261123144000 +0100" channel="CZ - JOJ ŠPORT">
+  <programme start="20261123114000 +0100" stop="20261123143500 +0100" channel="CZ - JOJ ŠPORT">
     <title lang="sk">Volejbal Challenge Cup</title>
     <desc lang="sk">Muži: VK Slovan Bratislava - VC Pärnu
 Záznam volejbalového zápasu Challenge Cup., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
-  <programme start="20261123144000 +0100" stop="20261123164500 +0100" channel="CZ - JOJ ŠPORT">
+  <programme start="20261123143500 +0100" stop="20261123164000 +0100" channel="CZ - JOJ ŠPORT">
     <title lang="sk">FIBA Europe Cup</title>
     <desc lang="sk">Landau Lions - BC Prievidza
 Záznam basketbalového zápasu Európskeho pohára FIBA., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
-  <programme start="20261123164500 +0100" stop="20261123175000 +0100" channel="CZ - JOJ ŠPORT">
+  <programme start="20261123164000 +0100" stop="20261123175000 +0100" channel="CZ - JOJ ŠPORT">
     <title lang="sk">Hokej - Zostrihy Tipsport ligy</title>
     <desc lang="sk">21. kolo
 Premiérový záznam highlightov hokejovej Tipsport ligy., (šport)</desc>
@@ -2889,73 +2889,73 @@ Záznam hokejového zápasu Tipsport ligy., (šport)</desc>
     <display-name>JOJ Šport 2</display-name>
     <icon src="https://web02.antik.sk/assets/img/channels/fbf8b20a1336c41d3c30a3c8b82c9edc.svg" />
   </channel>
-  <programme start="20261123014000 +0100" stop="20261123032500 +0100" channel="JOJ Šport 2.cz">
+  <programme start="20261123023000 +0100" stop="20261123040000 +0100" channel="JOJ Šport 2.cz">
     <title lang="sk">Volejbal - ME 2026 ženy</title>
     <desc lang="sk">Francúzsko - Slovensko
 Záznam volejbalového zápasu Majstrovstiev Európy žien., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
-  <programme start="20261123032500 +0100" stop="20261123053500 +0100" channel="JOJ Šport 2.cz">
+  <programme start="20261123040000 +0100" stop="20261123053500 +0100" channel="JOJ Šport 2.cz">
     <title lang="sk">Volejbal - ME 2026 muži</title>
     <desc lang="sk">Poľsko - Portugalsko
 Záznam volejbalového zápasu Majstrovstiev Európy mužov., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
-  <programme start="20261123053500 +0100" stop="20261123071000 +0100" channel="JOJ Šport 2.cz">
+  <programme start="20261123053500 +0100" stop="20261123070500 +0100" channel="JOJ Šport 2.cz">
     <title lang="sk">Svetový pohár vo vodnom slalome</title>
     <desc lang="sk">Augsburg, Nemecko - kajak cross
 Záznam pretekov Svetového pohára vo vodnom slalome., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
-  <programme start="20261123071000 +0100" stop="20261123093500 +0100" channel="JOJ Šport 2.cz">
+  <programme start="20261123070500 +0100" stop="20261123092000 +0100" channel="JOJ Šport 2.cz">
     <title lang="sk">Atletika - Diamantová liga</title>
     <desc lang="sk">Eugene, USA
 Záznam atletických podujatí sedemnásteho ročníka prestížnej Diamantovej ligy., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
-  <programme start="20261123093500 +0100" stop="20261123115000 +0100" channel="JOJ Šport 2.cz">
+  <programme start="20261123092000 +0100" stop="20261123114500 +0100" channel="JOJ Šport 2.cz">
     <title lang="sk">Portugalský pohár</title>
     <desc lang="sk">FC Porto - Paredes
 Záznam futbalového zápasu Portugalského pohára., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
-  <programme start="20261123115000 +0100" stop="20261123141500 +0100" channel="JOJ Šport 2.cz">
+  <programme start="20261123114500 +0100" stop="20261123140500 +0100" channel="JOJ Šport 2.cz">
     <title lang="sk">Hokej - Tipsport liga</title>
     <desc lang="sk">21. kolo - predohrávka: HC Prešov - HC Slovan Bratislava
 Záznam hokejového zápasu Tipsport ligy., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
-  <programme start="20261123141500 +0100" stop="20261123163000 +0100" channel="JOJ Šport 2.cz">
+  <programme start="20261123140500 +0100" stop="20261123155500 +0100" channel="JOJ Šport 2.cz">
     <title lang="sk">FIBA Europe Cup</title>
     <desc lang="sk">Patrioti Levice - Zielona Gora
 Záznam basketbalového zápasu Európskeho pohára FIBA., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
-  <programme start="20261123163000 +0100" stop="20261123190500 +0100" channel="JOJ Šport 2.cz">
+  <programme start="20261123155500 +0100" stop="20261123190500 +0100" channel="JOJ Šport 2.cz">
     <title lang="sk">Hokej - Tipsport liga</title>
     <desc lang="sk">21. kolo: HK Dukla Trenčín - HC Košice
 Záznam hokejového zápasu Tipsport ligy., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
-  <programme start="20261123190500 +0100" stop="20261123204500 +0100" channel="JOJ Šport 2.cz">
+  <programme start="20261123190500 +0100" stop="20261123210000 +0100" channel="JOJ Šport 2.cz">
     <title lang="sk">Krasokorčuľovanie ISU Grand Prix</title>
     <desc lang="sk">Helsinki, Fínsko - krátky program: muži
 Záznam krasokorčuliarskeho podujatia z ISU Grand Prix., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
-  <programme start="20261123204500 +0100" stop="20261123225000 +0100" channel="JOJ Šport 2.cz">
+  <programme start="20261123210000 +0100" stop="20261123231000 +0100" channel="JOJ Šport 2.cz">
     <title lang="sk">Krasokorčuľovanie ISU Grand Prix</title>
     <desc lang="sk">Helsinki, Fínsko - rytmické tance
 Záznam krasokorčuliarskeho podujatia z ISU Grand Prix., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
-  <programme start="20261123225000 +0100" stop="20261124005000 +0100" channel="JOJ Šport 2.cz">
+  <programme start="20261123231000 +0100" stop="20261124004000 +0100" channel="JOJ Šport 2.cz">
     <title lang="sk">Futsal - Liga majstrov</title>
     <desc lang="sk">FUTSAL KLUB Lučenec - Futsal Club Semey
 Záznam fustalového zápasu Ligy majstrov., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
-  <programme start="20261124005000 +0100" stop="20261124023500 +0100" channel="JOJ Šport 2.cz">
+  <programme start="20261124004000 +0100" stop="20261124023500 +0100" channel="JOJ Šport 2.cz">
     <title lang="sk">Volejbal - ME 2026 ženy</title>
     <desc lang="sk">Taliansko - Chorvátsko
 Záznam volejbalového zápasu Majstrovstiev Európy žien., (šport)</desc>
@@ -4738,7 +4738,7 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
   </programme>
   <channel id="215-barrandov">
     <display-name>Barrandov</display-name>
-    <icon src="https://web02.antik.sk/assets/img/channels/0df71aced13ad5a0767b3a29fd15b285.svg" />
+    <icon src="https://web02.antik.sk/assets/img/channels/eb17bab82adf3c2056f3ec895cc2c0f4.svg" />
   </channel>
   <programme start="20261123023500 +0100" stop="20261123035500 +0100" channel="215-barrandov">
     <title lang="sk">Na plac!</title>
@@ -4870,7 +4870,7 @@ Reportér Jaroslav Mareš je na stopách největších záhad, nevysvětlených 
   </programme>
   <channel id="Barrandov Kino ">
     <display-name>Kino Barrandov</display-name>
-    <icon src="https://web02.antik.sk/assets/img/channels/9ac7f83baba5cdfb2b35ad1eb0ba4379.svg" />
+    <icon src="https://web02.antik.sk/assets/img/channels/b80d688ded8ff36547d06cf81d01e3d7.svg" />
   </channel>
   <programme start="20261123010500 +0100" stop="20261123013000 +0100" channel="Barrandov Kino ">
     <title lang="sk">Vaříme s Jirkou Babicou</title>
@@ -5000,7 +5000,7 @@ Jiří Babica představuje jednoduché a chutné recepty s tím, co máte doma, 
   </programme>
   <channel id="Barrandov.Krimi.HD.sk">
     <display-name>Barrandov Krimi</display-name>
-    <icon src="https://web02.antik.sk/assets/img/channels/8d7ff3a199dde02b11e916a5e5bd7642.svg" />
+    <icon src="https://web02.antik.sk/assets/img/channels/9ec7fff6c8093d35c3b210b3980cb74e.svg" />
   </channel>
   <programme start="20261123040000 +0100" stop="20261123060000 +0100" channel="Barrandov.Krimi.HD.sk">
     <title lang="sk">Exkluziv!</title>
