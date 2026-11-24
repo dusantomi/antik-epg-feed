@@ -762,12 +762,14 @@ Prírodovedno-paleontologický dokumentárny seriál s dramatizovanou rekonštru
   </channel>
   <programme start="20261124013500 +0100" stop="20261124022000 +0100" channel="MARKÍZA.cz">
     <title lang="sk">Kobra 11 XXV (10)</title>
-    <sub-title lang="sk">Dedičstvo, 2. časť</sub-title>
-    <desc lang="sk">(Dedičstvo, 2. časť), Akčný seriál, Nemecko (2019-2020). Hrajú: E. Atalay, D. Roesner., (seriál, dráma, akcia, krimi)</desc>
+    <sub-title lang="sk">Dedičstvo</sub-title>
+    <desc lang="sk">(Dedičstvo), Akčný seriál, Nemecko (2019-2020). Hrajú: E. Atalay, D. Roesner., (seriál, thriller, dráma, akcia, dobrodružstvo, krimi), 2019</desc>
     <category lang="sk">seriál</category>
+    <category lang="sk">thriller</category>
     <category lang="sk">dráma</category>
     <category lang="sk">akcia</category>
     <category lang="sk">krimi</category>
+    <category lang="sk">dobrodružstvo</category>
   </programme>
   <programme start="20261124022000 +0100" stop="20261124033500 +0100" channel="MARKÍZA.cz">
     <title lang="sk">Zámena manželiek</title>
@@ -2451,7 +2453,7 @@ Bolestivo pripravené. Brilantne naservírované. Majstrovské degustačné menu
   </programme>
   <channel id="TA3.cz">
     <display-name>TA3</display-name>
-    <icon src="https://web02.antik.sk/assets/img/channels/5433973ecdcccae223dc7c23663b2b6b.svg" />
+    <icon src="https://web02.antik.sk/assets/img/channels/a92a0127acea617b5931733cd6f39107.svg" />
   </channel>
   <programme start="20261124010000 +0100" stop="20261124013000 +0100" channel="TA3.cz">
     <title lang="sk">Štúdio TA3</title>
