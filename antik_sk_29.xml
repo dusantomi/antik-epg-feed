@@ -2440,7 +2440,7 @@ Ak je niekto nenápadný, to neznamená, že nie je nebezpečný. Pán Nikto má
   </programme>
   <channel id="TA3.cz">
     <display-name>TA3</display-name>
-    <icon src="https://web02.antik.sk/assets/img/channels/5433973ecdcccae223dc7c23663b2b6b.svg" />
+    <icon src="https://web02.antik.sk/assets/img/channels/a92a0127acea617b5931733cd6f39107.svg" />
   </channel>
   <programme start="20261125010000 +0100" stop="20261125013000 +0100" channel="TA3.cz">
     <title lang="sk">Štúdio TA3</title>
@@ -3141,7 +3141,7 @@ Slovenský dokumentárny seriál (2025)., (dokument)</desc>
   </programme>
   <channel id="JOJCINEMA.cz">
     <display-name>JOJ Cinema</display-name>
-    <icon src="https://web02.antik.sk/assets/img/channels/a495df5c73045da66c3f87fa0c8ed9d5.svg" />
+    <icon src="https://web02.antik.sk/assets/img/channels/800244a29155204f4df7cf9e15f604ab.svg" />
   </channel>
   <programme start="20261125011500 +0100" stop="20261125024000 +0100" channel="JOJCINEMA.cz">
     <title lang="sk">Smrť v slepej ulici</title>
@@ -3245,32 +3245,32 @@ Slovenský dokumentárny seriál (2025)., (dokument)</desc>
     <display-name>ČT1</display-name>
     <icon src="https://web02.antik.sk/assets/img/channels/bb151d2838859cc04d9ed06aa99eefbc.svg" />
   </channel>
-  <programme start="20261125012500 +0100" stop="20261125015000 +0100" channel="CZ - ČT1">
+  <programme start="20261125012500 +0100" stop="20261125015100 +0100" channel="CZ - ČT1">
     <title lang="sk">Zajímavosti z regionů</title>
     <desc lang="sk">Události a informace z kraje, v němž žijete, (spravodajstvo)</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261125015000 +0100" stop="20261125021600 +0100" channel="CZ - ČT1">
+  <programme start="20261125015100 +0100" stop="20261125021700 +0100" channel="CZ - ČT1">
     <title lang="sk">Bydlení je hra</title>
     <desc lang="sk">Bílá kuchyně plná barev (2012). Magazín o kultuře bydlení, (dokument), stereo</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261125021600 +0100" stop="20261125044700 +0100" channel="CZ - ČT1">
+  <programme start="20261125021700 +0100" stop="20261125044800 +0100" channel="CZ - ČT1">
     <title lang="sk">Dobré ráno</title>
     <desc lang="sk">(zábava)</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261125044700 +0100" stop="20261125051500 +0100" channel="CZ - ČT1">
+  <programme start="20261125044800 +0100" stop="20261125051600 +0100" channel="CZ - ČT1">
     <title lang="sk">13. komnata Xindla X</title>
     <desc lang="sk">Známý písničkář a scenárista léta bojoval s těžkou obezitou a jo-jo efektem, který mu způsobil vážné zdravotní i psychické potíže. Vyčerpávající kolotoč drastických diet a neustálého odpírání dokázal prolomit až s pomocí odborné medicínské péče. Příběhem provází Simona Chytrová. Režie: V. Olmer, (dokument), stereo</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261125051500 +0100" stop="20261125053000 +0100" channel="CZ - ČT1">
+  <programme start="20261125051600 +0100" stop="20261125053100 +0100" channel="CZ - ČT1">
     <title lang="sk">Černé ovce</title>
     <desc lang="sk">Nebojte se bojovat za svá práva - pomůžeme vám! Reportáže, testy, rady, (spravodajstvo)</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261125053000 +0100" stop="20261125055900 +0100" channel="CZ - ČT1">
+  <programme start="20261125053100 +0100" stop="20261125055900 +0100" channel="CZ - ČT1">
     <title lang="sk">Události v regionech</title>
     <desc lang="sk">Hlavní regionální zpravodajská relace České televize. Souhrn nejdůležitějších událostí v krajích České republiky, (spravodajstvo)</desc>
     <category lang="sk">spravodajstvo</category>
@@ -3304,12 +3304,12 @@ Slovenský dokumentárny seriál (2025)., (dokument)</desc>
     <category lang="sk">dráma</category>
     <category lang="sk">komédia</category>
   </programme>
-  <programme start="20261125112500 +0100" stop="20261125115100 +0100" channel="CZ - ČT1">
+  <programme start="20261125112500 +0100" stop="20261125115200 +0100" channel="CZ - ČT1">
     <title lang="sk">AZ-kvíz</title>
     <desc lang="sk">Soutěž pro každého, (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261125115100 +0100" stop="20261125120000 +0100" channel="CZ - ČT1">
+  <programme start="20261125115200 +0100" stop="20261125120000 +0100" channel="CZ - ČT1">
     <title lang="sk">StarDance XIV... kolem dokola</title>
     <desc lang="sk">Exkluzivní pohled do zákulisí taneční show, (zábava)</desc>
     <category lang="sk">zábava</category>
@@ -3324,22 +3324,27 @@ Slovenský dokumentárny seriál (2025)., (dokument)</desc>
     <desc lang="sk">Souhrn meteorologických informací uplynulých 24 hodin a prognóza vývoje počasí na příští dny, (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261125123000 +0100" stop="20261125140000 +0100" channel="CZ - ČT1">
+  <programme start="20261125123000 +0100" stop="20261125140100 +0100" channel="CZ - ČT1">
     <title lang="sk">Sama doma</title>
     <desc lang="sk">Být doma neznamená být bez práce. Tisíc rolí ženy, (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261125140000 +0100" stop="20261125152500 +0100" channel="CZ - ČT1">
+  <programme start="20261125140100 +0100" stop="20261125152500 +0100" channel="CZ - ČT1">
     <title lang="sk">StarDance XIV... když hvězdy tančí</title>
     <desc lang="sk">Čtrnáctá řada velkolepé taneční show. V tomto kole budou naše páry tančit pro Centrum Paraple, své tance věnují konkrétním vozíčkářům, kteří se pouze pro tento večer stanou jejich patrony. Přímým přenosem provázejí Tereza Kostková a Marek Eben. Režie: V. Bělohradský, (zábava)</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261125152500 +0100" stop="20261125154500 +0100" channel="CZ - ČT1">
+  <programme start="20261125152500 +0100" stop="20261125155500 +0100" channel="CZ - ČT1">
     <title lang="sk">StarDance XIV... když hvězdy tančí - Rozhodnutí</title>
     <desc lang="sk">(zábava)</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261125154500 +0100" stop="20261125164700 +0100" channel="CZ - ČT1">
+  <programme start="20261125155500 +0100" stop="20261125161000 +0100" channel="CZ - ČT1">
+    <title lang="sk">Zůstanu svůj</title>
+    <desc lang="sk">Jedinečné a známé melodie z televizních vystoupení Karla Gotta (2009). Režie F. Polák, (zábava)</desc>
+    <category lang="sk">zábava</category>
+  </programme>
+  <programme start="20261125161000 +0100" stop="20261125171500 +0100" channel="CZ - ČT1">
     <title lang="sk">Na krok od nebe VII (7)</title>
     <sub-title lang="sk">Strážce jezera - 1.část</sub-title>
     <desc lang="sk">(Strážce jezera - 1.část), Komisař Nappi a inspektorka Nappiová – protiklady, které dohromady tvoří neporazitelný sourozenecký tandem. Sedmá řada italského detektivního seriálu z horského regionu Horní Adiže (2020). Hrají: E. Ianniello, G. Buscemiová, M. Rosetti, G. Pozzoli, S. Iansitiová, G. Marchesi, L. Pazzagli... Režie: Enrico Ianniello, (seriál, thriller, komédia, akcia, rodinný, fantastika), bilingual, 2023</desc>
@@ -3349,11 +3354,6 @@ Slovenský dokumentárny seriál (2025)., (dokument)</desc>
     <category lang="sk">fantastika</category>
     <category lang="sk">komédia</category>
     <category lang="sk">rodinný</category>
-  </programme>
-  <programme start="20261125164700 +0100" stop="20261125171500 +0100" channel="CZ - ČT1">
-    <title lang="sk">Na cestě po poloostrově Izu</title>
-    <desc lang="sk">S Jiřím Bartoškou a Miroslavem Donutilem za nejlepším wasabi, za tajemnými svatyněmi na skalnatém pobřeží, přes bizarní kabinet kuriozit až do města Atami na hodinu tance a hudby v tradiční škole gejš (2017). Režie: P. Holý a L. Milota, (dokument), stereo</desc>
-    <category lang="sk">dokument</category>
   </programme>
   <programme start="20261125171500 +0100" stop="20261125174200 +0100" channel="CZ - ČT1">
     <title lang="sk">AZ-kvíz</title>
@@ -3408,12 +3408,12 @@ Slovenský dokumentárny seriál (2025)., (dokument)</desc>
     <category lang="sk">dráma</category>
     <category lang="sk">komédia</category>
   </programme>
-  <programme start="20261125211200 +0100" stop="20261125214000 +0100" channel="CZ - ČT1">
+  <programme start="20261125211200 +0100" stop="20261125214100 +0100" channel="CZ - ČT1">
     <title lang="sk">13. komnata Dáji Bedáňové</title>
     <desc lang="sk">Bývalá špičková tenistka čelila od dětství enormnímu psychickému tlaku a tvrdému drilu ze strany vlastního otce. Dlouhodobý tlak a stres vyústily v bulimii a vedly k předčasnému konci kariéry. Příběhem provází Simona Chytrová. Režie: V. Olmer, (dokument), stereo</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261125214000 +0100" stop="20261125214400 +0100" channel="CZ - ČT1">
+  <programme start="20261125214100 +0100" stop="20261125214400 +0100" channel="CZ - ČT1">
     <title lang="sk">Výsledky losování Šťastných 10</title>
   </programme>
   <programme start="20261125214400 +0100" stop="20261125232600 +0100" channel="CZ - ČT1">
@@ -3431,17 +3431,18 @@ Slovenský dokumentárny seriál (2025)., (dokument)</desc>
   <programme start="20261126000500 +0100" stop="20261126013500 +0100" channel="CZ - ČT1">
     <title lang="sk">Komisař Dupin (6)</title>
     <sub-title lang="sk">Bretaňské světlo</sub-title>
-    <desc lang="sk">(Bretaňské světlo), Špičkový vyšetřovatel je převelen z Paříže do Bretaně, kde vedle zločinu svádí boj i se svérázem místních obyvatel. Německý kriminální seriál podle úspěšné předlohy (2018). Hrají: P. Aleardi, J. G. Schütte, A. Blendlová, L. Blochberger, A. El Sayedová... Režie: Dagmar Saumeová, (seriál, thriller, dráma, krimi), bilingual, Nemecko, 2018</desc>
+    <desc lang="sk">(Bretaňské světlo), Špičkový vyšetřovatel je převelen z Paříže do Bretaně, kde vedle zločinu svádí boj i se svérázem místních obyvatel. Německý kriminální seriál podle úspěšné předlohy (2018). Hrají: P. Aleardi, J. G. Schütte, A. Blendlová, L. Blochberger, A. El Sayedová... Režie: Dagmar Saumeová, (seriál, thriller, dráma, krimi, fantastika), bilingual, Nemecko, 2018</desc>
     <category lang="sk">seriál</category>
     <category lang="sk">thriller</category>
     <category lang="sk">dráma</category>
     <category lang="sk">krimi</category>
+    <category lang="sk">fantastika</category>
   </programme>
   <channel id="CZ - ČT2">
     <display-name>ČT2</display-name>
     <icon src="https://web02.antik.sk/assets/img/channels/9a74edca24f901c1b44730cb8554f88f.svg" />
   </channel>
-  <programme start="20261125010900 +0100" stop="20261125013500 +0100" channel="CZ - ČT2">
+  <programme start="20261125010700 +0100" stop="20261125013500 +0100" channel="CZ - ČT2">
     <title lang="sk">Evropa dnes</title>
     <desc lang="sk">Italiana 6/6
 Mantova a její okolí vyprávějí příběh Lombardie – regionu kontrastů s unikátní rozmanitostí krajiny, kultury i gastronomie. Italský televizní magazín, (dokument)</desc>
@@ -3452,52 +3453,52 @@ Mantova a její okolí vyprávějí příběh Lombardie – regionu kontrastů s
     <desc lang="sk">Návštěva v dětském lesním klubu Šalvějka, který podporuje komunikační schopnosti a prožitky dětí s poruchami sluchu. Pořad pro neslyšící a jejich přátele (2022). Režie: A. Lederer, (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261125020300 +0100" stop="20261125020800 +0100" channel="CZ - ČT2">
+  <programme start="20261125020300 +0100" stop="20261125020900 +0100" channel="CZ - ČT2">
     <title lang="sk">Postřehy odjinud</title>
     <desc lang="sk">Berlín očima Pavla Poláka
 Zazděné město, (dokument), stereo</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261125020800 +0100" stop="20261125023000 +0100" channel="CZ - ČT2">
+  <programme start="20261125020900 +0100" stop="20261125023000 +0100" channel="CZ - ČT2">
     <title lang="sk">Ztracené adresy</title>
     <desc lang="sk">Katzelsdorf
 Zámeček z lednicko-valtického areálu zmizel ve víru studené války. Počítačová současnost probouzí, co minulost pohřbila (2011). Režie: J. Tabery, (dokument), stereo</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261125023000 +0100" stop="20261125025600 +0100" channel="CZ - ČT2">
+  <programme start="20261125023000 +0100" stop="20261125025800 +0100" channel="CZ - ČT2">
     <title lang="sk">Tajemství železnic</title>
     <desc lang="sk">Osoblažkou po slezské Hané
 Martin Dejdar provází pozoruhodným světem na kolejích. Cyklus dokumentů mapujících známá i méně známá místa naší železné dráhy (2012). Připravili J. Slomiany a J. Novák, (dokument), stereo</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261125025600 +0100" stop="20261125035500 +0100" channel="CZ - ČT2">
+  <programme start="20261125025800 +0100" stop="20261125035600 +0100" channel="CZ - ČT2">
     <title lang="sk">Opožděný východ</title>
     <desc lang="sk">Zatímco Praha prakticky ihned po 17. listopadu 1989 rezonovala atmosférou svobody a naděje, na severní Moravě se komunisté rozhodně nechtěli vzdát moci tak snadno (2009). Režie: M. Petrov, (dokument), stereo</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261125035500 +0100" stop="20261125042200 +0100" channel="CZ - ČT2">
+  <programme start="20261125035600 +0100" stop="20261125042500 +0100" channel="CZ - ČT2">
     <title lang="sk">Boj o Moravskou Amazonii</title>
     <desc lang="sk">Unikátní lokalita na soutoku Moravy a Dyje si zaslouží status chráněné krajinné oblasti, proti jsou ovšem významní ekonomičtí hráči (2020). Režie: J. Šlofar, (dokument), stereo</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261125042200 +0100" stop="20261125045000 +0100" channel="CZ - ČT2">
+  <programme start="20261125042500 +0100" stop="20261125045100 +0100" channel="CZ - ČT2">
     <title lang="sk">Smíření nad Odrou</title>
     <desc lang="sk">Když traumata minulosti odezněla, stala se vesnice Jeseník skvělým místem k životu (2014). Režie: K. Řezníčková, (dokument), stereo</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261125045000 +0100" stop="20261125051600 +0100" channel="CZ - ČT2">
+  <programme start="20261125045100 +0100" stop="20261125051900 +0100" channel="CZ - ČT2">
     <title lang="sk">Cesty víry</title>
     <desc lang="sk">Po stopách Konstantina a Metoděje
 Poutník Jiří Svatopluk Novotný, Moravan tělem i duší, se svými výpravami snaží experimentálně potvrdit skutečné misijní trasy svatých bratří. Dokument J. Slomianého a P. Všelichové, (dokument)</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261125051600 +0100" stop="20261125054500 +0100" channel="CZ - ČT2">
+  <programme start="20261125051900 +0100" stop="20261125054700 +0100" channel="CZ - ČT2">
     <title lang="sk">Dobrodružství vědy a techniky</title>
     <desc lang="sk">Krajty písmenkové - tiší smrtící lovci
 Impozantní prehistoričtí škrtiči patří mezi nemnoho hadů, kteří se starají o svá mláďata. Německý dokument z cyklu Vzhůru do divočiny, (dokument)</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261125054500 +0100" stop="20261125055900 +0100" channel="CZ - ČT2">
+  <programme start="20261125054700 +0100" stop="20261125055900 +0100" channel="CZ - ČT2">
     <title lang="sk">Zprávy v českém znakovém jazyce</title>
     <desc lang="sk">(spravodajstvo)</desc>
     <category lang="sk">spravodajstvo</category>
@@ -3590,19 +3591,19 @@ Oblast uprostřed Evropy je místo s bohatou historií, nádhernými metropolemi
 Nejzajímavější stavební projekty realizované na našem území od vzniku samostatné České republiky. Připravili P. Miškejová a S. Schneeweis, (dokument)</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261125184500 +0100" stop="20261125190000 +0100" channel="CZ - ČT2">
+  <programme start="20261125184500 +0100" stop="20261125190100 +0100" channel="CZ - ČT2">
     <title lang="sk">Klima v souvislostech (6/8)</title>
     <desc lang="sk">Klima a doprava
 Klíčové dopady klimatické změny pod drobnohledem. Jak posílit klimatickou odolnost české krajiny i tuzemských měst a obcí. Premiérový díl nového publicistického cyklu. Připravili M. Žák a D. Tichý, (dokument)</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261125190000 +0100" stop="20261125191300 +0100" channel="CZ - ČT2">
+  <programme start="20261125190100 +0100" stop="20261125191400 +0100" channel="CZ - ČT2">
     <title lang="sk">Vltava, naše řeka (9/10)</title>
     <desc lang="sk">Svatý Ostrov
 Cyklus s Václavem Cílkem se soustředí na historicky cenné lokality v okolí toku Vltavy. Připravil M. Hrdý, (dokument), stereo</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261125191300 +0100" stop="20261125192500 +0100" channel="CZ - ČT2">
+  <programme start="20261125191400 +0100" stop="20261125192500 +0100" channel="CZ - ČT2">
     <title lang="sk">Vltava, naše řeka (10/10)</title>
     <desc lang="sk">Ve Svatojánských proudech
 Cyklus s Václavem Cílkem se soustředí na historicky cenné lokality v okolí toku Vltavy. Připravil M. Hrdý, (dokument), stereo</desc>
@@ -3636,12 +3637,12 @@ Příběh pěvkyně a zuřivého reportéra, (dokument), stereo</desc>
 Ivana Jirešová a Martin Písařík navštíví v nové řadě cestovatelského cyklu město plné studentského života i krásných památek, (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261125213000 +0100" stop="20261125215900 +0100" channel="CZ - ČT2">
+  <programme start="20261125213000 +0100" stop="20261125215700 +0100" channel="CZ - ČT2">
     <title lang="sk">Vyvolená</title>
     <desc lang="sk">Náboženský extrémismus vedl k rozpadu rodiny a k několika lidským tragédiím. Dokument T. Rekové, (dokument), stereo</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261125215900 +0100" stop="20261125224500 +0100" channel="CZ - ČT2">
+  <programme start="20261125215700 +0100" stop="20261125224500 +0100" channel="CZ - ČT2">
     <title lang="sk">Do konce (4/6)</title>
     <desc lang="sk">Docusoap České televize o užívání života do poslední chvíle. Režie: L. Kallistová Jablonská a J. Třešňák, (dokument), stereo</desc>
     <category lang="sk">dokument</category>
@@ -4080,20 +4081,20 @@ Neděle 22. června 1941, nacistické Německo napadlo Sovětský svaz. V první
   </programme>
   <channel id="CZ - CNN PRIMA NEWS">
     <display-name>CNN Prima News</display-name>
-    <icon src="https://web02.antik.sk/assets/img/channels/4debe2ab2b523d9882fa869e820584f7.svg" />
+    <icon src="https://web02.antik.sk/assets/img/channels/beac74e18415c0d9f56926529f4001d5.svg" />
   </channel>
-  <programme start="20261125023500 +0100" stop="20261125031500 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261125023000 +0100" stop="20261125032000 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">Prima ČESKO</title>
     <desc lang="sk">Cestujte s námi po Česku a poznejte nejzajímavější místa naší země., (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261125031500 +0100" stop="20261125040500 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261125032000 +0100" stop="20261125041000 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">Co na to vaše zdraví</title>
     <desc lang="sk">Spánková apnoe + Jak správně nosit miminko
 Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261125040500 +0100" stop="20261125055500 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261125041000 +0100" stop="20261125055500 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">360°</title>
     <desc lang="sk">Nejdůležitější události dne analyzované ze všech úhlů pohledu. Pokud o nich mluvíte, my taky., (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
@@ -4133,12 +4134,12 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <desc lang="sk">Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261125151500 +0100" stop="20261125154000 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261125151500 +0100" stop="20261125153500 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">K věci</title>
     <desc lang="sk">Podrobný rozbor aktuálních událostí a témat s významnými osobnostmi veřejného života., (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261125154000 +0100" stop="20261125160000 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261125153500 +0100" stop="20261125160000 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">Prima PODZIM</title>
     <desc lang="sk">Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
@@ -4153,14 +4154,19 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <desc lang="sk">Aktuální události z oblasti kriminality. Zločiny očima profesionálů, zkušených reportérů i diváků., (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261125165500 +0100" stop="20261125173000 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261125165500 +0100" stop="20261125172500 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">Zprávy z regionů</title>
     <desc lang="sk">Aktuální zprávy ze všech regionů České republiky. Události, zajímavé příběhy, témata vašeho kraje., (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261125173000 +0100" stop="20261125181000 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261125172500 +0100" stop="20261125180500 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">Co na to vaše peněženka</title>
     <desc lang="sk">Jak ušetřit, do čeho investovat a na co si dát pozor? Rady i své recepty nabídnou přední ekonomové i politici., (spravodajstvo), stereo</desc>
+    <category lang="sk">spravodajstvo</category>
+  </programme>
+  <programme start="20261125180500 +0100" stop="20261125181000 +0100" channel="CZ - CNN PRIMA NEWS">
+    <title lang="sk">Může se to stát i vám</title>
+    <desc lang="sk">Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
   <programme start="20261125181000 +0100" stop="20261125185500 +0100" channel="CZ - CNN PRIMA NEWS">
@@ -4178,17 +4184,17 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <desc lang="sk">Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261125213000 +0100" stop="20261125230000 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261125213000 +0100" stop="20261125225500 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">360°</title>
     <desc lang="sk">Nejdůležitější události dne analyzované ze všech úhlů pohledu. Pokud o nich mluvíte, my taky., (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261125230000 +0100" stop="20261126004000 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261125225500 +0100" stop="20261126004000 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">Zpravodajské centrum</title>
     <desc lang="sk">Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261126004000 +0100" stop="20261126022000 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261126004000 +0100" stop="20261126020500 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">360°</title>
     <desc lang="sk">Nejdůležitější události dne analyzované ze všech úhlů pohledu. Pokud o nich mluvíte, my taky., (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
@@ -4704,7 +4710,7 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
   </programme>
   <channel id="215-barrandov">
     <display-name>Barrandov</display-name>
-    <icon src="https://web02.antik.sk/assets/img/channels/eb17bab82adf3c2056f3ec895cc2c0f4.svg" />
+    <icon src="https://web02.antik.sk/assets/img/channels/0df71aced13ad5a0767b3a29fd15b285.svg" />
   </channel>
   <programme start="20261125014500 +0100" stop="20261125033000 +0100" channel="215-barrandov">
     <title lang="sk">Na plac!</title>
@@ -4836,7 +4842,7 @@ Reportér Jaroslav Mareš je na stopách největších záhad, nevysvětlených 
   </programme>
   <channel id="Barrandov Kino ">
     <display-name>Kino Barrandov</display-name>
-    <icon src="https://web02.antik.sk/assets/img/channels/b80d688ded8ff36547d06cf81d01e3d7.svg" />
+    <icon src="https://web02.antik.sk/assets/img/channels/9ac7f83baba5cdfb2b35ad1eb0ba4379.svg" />
   </channel>
   <programme start="20261125013000 +0100" stop="20261125023000 +0100" channel="Barrandov Kino ">
     <title lang="sk">Na plac!</title>
@@ -4957,7 +4963,7 @@ Reportér Jaroslav Mareš je na stopách největších záhad, nevysvětlených 
   </programme>
   <channel id="Barrandov.Krimi.HD.sk">
     <display-name>Barrandov Krimi</display-name>
-    <icon src="https://web02.antik.sk/assets/img/channels/9ec7fff6c8093d35c3b210b3980cb74e.svg" />
+    <icon src="https://web02.antik.sk/assets/img/channels/8d7ff3a199dde02b11e916a5e5bd7642.svg" />
   </channel>
   <programme start="20261125043500 +0100" stop="20261125050500 +0100" channel="Barrandov.Krimi.HD.sk">
     <title lang="sk">Exkluziv!</title>
