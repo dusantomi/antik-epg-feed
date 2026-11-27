@@ -2426,7 +2426,7 @@ Americko-austrálsky dobrodružný triler (2011). Hrajú: Richard Roxburgh, Rhys
   </programme>
   <channel id="TA3.cz">
     <display-name>TA3</display-name>
-    <icon src="https://web02.antik.sk/assets/img/channels/a92a0127acea617b5931733cd6f39107.svg" />
+    <icon src="https://web02.antik.sk/assets/img/channels/5433973ecdcccae223dc7c23663b2b6b.svg" />
   </channel>
   <programme start="20261127010000 +0100" stop="20261127013000 +0100" channel="TA3.cz">
     <title lang="sk">Štúdio TA3</title>
@@ -3138,7 +3138,7 @@ Britský dokumentárny seriál (2018)., (dokument)</desc>
   </programme>
   <channel id="JOJCINEMA.cz">
     <display-name>JOJ Cinema</display-name>
-    <icon src="https://web02.antik.sk/assets/img/channels/800244a29155204f4df7cf9e15f604ab.svg" />
+    <icon src="https://web02.antik.sk/assets/img/channels/a495df5c73045da66c3f87fa0c8ed9d5.svg" />
   </channel>
   <programme start="20261127012500 +0100" stop="20261127025000 +0100" channel="JOJCINEMA.cz">
     <title lang="sk">Smrť v slepej ulici</title>
@@ -3934,14 +3934,14 @@ Bulharské perličky, (dokument), stereo</desc>
     <display-name>Prima SK</display-name>
     <icon src="https://web02.antik.sk/assets/img/channels/766e20b377d037e898715d4f4abdbf7c.svg" />
   </channel>
-  <programme start="20261127021000 +0100" stop="20261127031500 +0100" channel="CZ - PRIMA SK">
+  <programme start="20261127020500 +0100" stop="20261127031000 +0100" channel="CZ - PRIMA SK">
     <title lang="sk">Kamarádi (84)</title>
     <desc lang="sk">Nakrúcanie je v plnom prúde. Je doktor Bláha vítanou pomocou v Petrovej ordinácii, alebo svojou cholerickou povahou Petrovi skôr pridáva problémy? Oliver s Kájou ďalej riešia spoločné bývanie, čo sa dotkne Oliverovej matky. Na ktorú stranu sa tentoraz postaví Oliverov otec? A dokážu sa vôbec Oliver s Kájou dohodnúť? Veronika s Davidom sa kvôli bábätku chystajú na DNA testy pre možné dedičné choroby. Majer má veľké tajomstvo a napokon musí s pravdou von. Rodinný seriál (2026). Hrajú: A. Chocholatá, D. Gránský, J. Komínek, P. Děrgel, A. Dvořáková, M. Preissová, P. Řezníček, R. Řandová, I. Korolová, D. Syslová, V. Kopta, O. Kraus. Réžia: P. Zahrádka. Program je opatrený skrytými titulkami (ST), (seriál, komédia, rodinný), stereo</desc>
     <category lang="sk">seriál</category>
     <category lang="sk">komédia</category>
     <category lang="sk">rodinný</category>
   </programme>
-  <programme start="20261127031500 +0100" stop="20261127041000 +0100" channel="CZ - PRIMA SK">
+  <programme start="20261127031000 +0100" stop="20261127041000 +0100" channel="CZ - PRIMA SK">
     <title lang="sk">1. MISE (21)</title>
     <sub-title lang="sk">Díra v hlavě</sub-title>
     <desc lang="sk">(Díra v hlavě), Premiérový diel prvého českého seriálu o obdivuhodnej profesii vojenských lekárov. Dvanásť osobností, dvanásť príbehov, a jeden spoločný cieľ. A obstoja len tí najlepší! Alica ďalej pomáha Davidovi so starostlivosťou o Jelizavetu a Míša si všíma, že ich vzťah je čím ďalej vrelejší. Na ambulanciu prichádza pacient s poranením hlavy. Frekventanti postupne zisťujú, že jeho úraz má veľmi neobvyklú príčinu. Hrajú: J. Dolanský, M. Němec, K. Leichtová, A. Gondíková, S. Nováková, O. Rychlý, P. Řezníček, R. Zach, R. Mácha, S. Rychlíková, L. Matouš, A. Nesvadbová a ďalší. Réžia: J. Polišenský. Program je opatrený skrytými titulkami (ST), (seriál, dráma), stereo</desc>
@@ -3958,70 +3958,70 @@ Bulharské perličky, (dokument), stereo</desc>
     <desc lang="sk">Obľúbený Jiří Krampol a jeho hostia v špeciálnych vydaniach úspešného zábavného programu s dlhoročnou tradíciou., (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261127063500 +0100" channel="CZ - PRIMA SK">
+  <programme start="20261127060000 +0100" stop="20261127071000 +0100" channel="CZ - PRIMA SK">
     <title lang="sk">Teď vaří šéf!</title>
     <desc lang="sk">Variť ako profík vraj nie je žiadna veda. Zvlášť doma, kde nie je žiadny stres. Podstata je v jednoduchosti, presných informáciách a správnom plánovaní, ktoré začína už nákupom. Rada nad zlato znie: Neplytvať a všetko spracovať! S ľahkosťou, nápadmi a dobrou náladou. Ako skvele a rýchle navariť bez zbytočných finančných strát, sa dozviete v programe Zdeňka Pohlreicha Teď vaří šéf! Program je opatrený skrytými titulkami (ST), (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261127063500 +0100" stop="20261127072500 +0100" channel="CZ - PRIMA SK">
+  <programme start="20261127071000 +0100" stop="20261127080000 +0100" channel="CZ - PRIMA SK">
     <title lang="sk">Receptář prima nápadů</title>
     <desc lang="sk">Legendárny magazín pre pestovateľov, chovateľov, chalupárov, domácich majstrov a všetkých, ktorí chcú pohodlne bývať, príjemne relaxovať či zdravo žiť. Program s Oldřichom Navrátilom a jeho kolegami, plný sezónnych rád, tipov a názorných ukážok. Vaše chvíle pohody na nedeľné poludnie!, (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261127072500 +0100" stop="20261127080000 +0100" channel="CZ - PRIMA SK">
+  <programme start="20261127080000 +0100" stop="20261127083500 +0100" channel="CZ - PRIMA SK">
     <title lang="sk">Vychytávky Ládi Hrušky</title>
     <desc lang="sk">Kto iný ako Láďa Hruška! Pobaví, poradí, zoženie, vyskúša, vymyslí, predvedie, ušetrí, uvarí... Príde ku vám na záhradu, do dielne a aj do kuchyne! Triky, rady, vychytávky, ale aj najcennejšie rodinné recepty priamo z vašich domovov., (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261127080000 +0100" stop="20261127090000 +0100" channel="CZ - PRIMA SK">
+  <programme start="20261127083500 +0100" stop="20261127093000 +0100" channel="CZ - PRIMA SK">
     <title lang="sk">Prostřeno!</title>
     <desc lang="sk">Päť súťažiacich, päť večerov, menu tradičné aj exotické. Reality šou Prostřeno! je každodennou návštevou vašich domovov, prehliadkou tancov okolo platne, lákavou ochutnávkou, ale aj sondou odolnosti zúčastnených., (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261127090000 +0100" stop="20261127101500 +0100" channel="CZ - PRIMA SK">
+  <programme start="20261127093000 +0100" stop="20261127104500 +0100" channel="CZ - PRIMA SK">
     <title lang="sk">Kamarádi (85)</title>
     <desc lang="sk">Primára Bláhu sa už bojí celá dedina aj široké okolie. Bláha to chce vzdať, no potom sa ide prejsť do lesa a zachráni zranené dieťa. Z Bláhu je zrazu hrdina. Veronika s Davidom nájdu Davidovu biologickú matku. Je ňou profesorka Alex Kettner, no zo svojho „strateného syna“ nemá žiadnu radosť. Pomôže Davidovi a Veronike? Filmári by chceli nakrúcať v pohostinstve, Oliver je proti, ale Oskar ho presvedčí. Kým filmári neprídu s tým, že krčmu treba celú prerobiť. Rodinný seriál (2026). Hrajú: A. Chocholatá, D. Gránský, J. Komínek, P. Děrgel, A. Dvořáková, M. Preissová, P. Řezníček, R. Řandová, I. Korolová, D. Syslová, V. Kopta, Z. Slavíková. Réžia: P. Zahrádka. Program je opatrený skrytými titulkami (ST), (seriál, komédia, rodinný), stereo</desc>
     <category lang="sk">seriál</category>
     <category lang="sk">komédia</category>
     <category lang="sk">rodinný</category>
   </programme>
-  <programme start="20261127101500 +0100" stop="20261127113500 +0100" channel="CZ - PRIMA SK">
+  <programme start="20261127104500 +0100" stop="20261127115500 +0100" channel="CZ - PRIMA SK">
     <title lang="sk">1. MISE (22)</title>
     <sub-title lang="sk">Všichni jsou už v Libyi</sub-title>
     <desc lang="sk">(Všichni jsou už v Libyi), Premiérový diel prvého českého seriálu o obdivuhodnej profesii vojenských lekárov. Dvanásť osobností, dvanásť príbehov, a jeden spoločný cieľ. A obstoja len tí najlepší! Andy s Honzom spolu ďalej chodia a ich vzťah dostáva prekvapivý smer. Hofman skúša ďalšie možnosti, ako vyriešiť svoj plán s Líbyou. A Vladimír sa z donútenia ujme náročnej úlohy – ošetruje detskú pacientku. Hrajú: J. Dolanský, M. Němec, K. Leichtová, A. Gondíková, A. Pokorná, S. Nováková, O. Rychlý, P. Řezníček, R. Zach, R. Mácha, S. Rychlíková, L. Matouš, A. Nesvadbová a ďalší. Réžia: J. Polišenský. Program je opatrený skrytými titulkami (ST), (seriál, dráma), stereo</desc>
     <category lang="sk">seriál</category>
     <category lang="sk">dráma</category>
   </programme>
-  <programme start="20261127113500 +0100" stop="20261127124000 +0100" channel="CZ - PRIMA SK">
+  <programme start="20261127115500 +0100" stop="20261127130000 +0100" channel="CZ - PRIMA SK">
     <title lang="sk">Inkognito</title>
     <desc lang="sk">V zábavnej show Inkognito sa štvorica osobností snaží uhádnuť profesiu jednotlivých hostí alebo ich identitu. Zabavte sa nečakanými myšlienkami a hádajte spoločne s nimi. Moderuje Libor Bouček. Program je opatrený skrytými titulkami (ST), (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261127124000 +0100" stop="20261127140500 +0100" channel="CZ - PRIMA SK">
+  <programme start="20261127130000 +0100" stop="20261127141500 +0100" channel="CZ - PRIMA SK">
     <title lang="sk">Kamarádi (86)</title>
     <desc lang="sk">Profesorka Kettner ide kvôli bábätku Veroniky a Davida na DNA testy, všetko dopadne dobre. Nie je teda dôvod sa ďalej stretávať. Alebo áno? Lokačný zháňa ubytovanie pre hviezdneho herca. Do Strání prichádza práve „ON“ a Buchtová s Drocárovou súperia o to, ktorá z nich ho ubytuje u seba doma. Oliver s Kájou po mnohých problémoch konečne nájdu tých správnych remeselníkov, ktorí im urobia rekonštrukciu. Primár Bláha snáď napokon dokáže s ľuďmi vychádzať. Štěpánka má niekedy pocit, že Denis pre ňu asi nebude ten pravý. Rodinný seriál (2026). Hrajú: A. Chocholatá, D. Gránský, J. Komínek, P. Děrgel, A. Dvořáková, M. Preissová, P. Řezníček, R. Řandová, I. Korolová, D. Syslová, V. Kopta, T. Krejčíř, Z. Slavíková. Réžia: P. Zahrádka. Program je opatrený skrytými titulkami (ST), (seriál, komédia, rodinný), stereo</desc>
     <category lang="sk">seriál</category>
     <category lang="sk">komédia</category>
     <category lang="sk">rodinný</category>
   </programme>
-  <programme start="20261127140500 +0100" stop="20261127152500 +0100" channel="CZ - PRIMA SK">
+  <programme start="20261127141500 +0100" stop="20261127153500 +0100" channel="CZ - PRIMA SK">
     <title lang="sk">1. MISE (23)</title>
     <sub-title lang="sk">Dráždit kobru</sub-title>
     <desc lang="sk">(Dráždit kobru), Premiérový diel prvého českého seriálu o obdivuhodnej profesii vojenských lekárov. Dvanásť osobností, dvanásť príbehov, a jeden spoločný cieľ. A obstoja len tí najlepší! Do Rubavy privážajú dôstojníka zo zahraničnej misie s nejasnou diagnózou. Hofman s frekventantmi sa snaží nájsť príčinu a výsledok ich všetkých prekvapí. Andy už má čierne na bielom, že je tehotná. Nevie, ako sa má rozhodnúť a pred Honzom sa tým pádom tiež otvára vážna dilema. David s Alicou riešia zdravotné problémy Jelizavety, nakoniec ale musia zachrániť ešte vážnejší stav nečakaného prichádzajúceho. Hrajú: J. Dolanský, M. Němec, K. Leichtová, A. Gondíková, A. Pokorná, S. Nováková, O. Rychlý, P. Řezníček, R. Zach, I. Chmela, R. Mácha, S. Rychlíková, L. Matouš, A. Nesvadbová a ďalší. Réžia: J. Polišenský. Program je opatrený skrytými titulkami (ST), (seriál, dráma), stereo</desc>
     <category lang="sk">seriál</category>
     <category lang="sk">dráma</category>
   </programme>
-  <programme start="20261127152500 +0100" stop="20261127170000 +0100" channel="CZ - PRIMA SK">
+  <programme start="20261127153500 +0100" stop="20261127171000 +0100" channel="CZ - PRIMA SK">
     <title lang="sk">Máme rádi Česko</title>
     <desc lang="sk">Zábavný program Máme rádi Česko opäť preverí nielen znalosti divákov, ale predovšetkým vedomosti českých celebrít. Čo všetko vedia o Českej republike? To sa dozviete v zábavnej show, ktorou vás prevedie Libor Bouček. V úlohe kapitánov sa opäť proti sebe postavia Jakub Prachař a Vojta Kotek. Program je opatrený skrytými titulkami (ST), (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261127170000 +0100" stop="20261127180000 +0100" channel="CZ - PRIMA SK">
+  <programme start="20261127171000 +0100" stop="20261127180500 +0100" channel="CZ - PRIMA SK">
     <title lang="sk">Prostřeno!</title>
     <desc lang="sk">Päť súťažiacich, päť večerov, menu tradičné aj exotické. Reality šou Prostřeno! je každodennou návštevou vašich domovov, prehliadkou tancov okolo platne, lákavou ochutnávkou, ale aj sondou odolnosti zúčastnených., (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261127180000 +0100" stop="20261127185500 +0100" channel="CZ - PRIMA SK">
+  <programme start="20261127180500 +0100" stop="20261127185500 +0100" channel="CZ - PRIMA SK">
     <title lang="sk">Prostřeno!</title>
     <desc lang="sk">Nové pravidlá obľúbenej kulinárskej show menia zaužívané poriadky. Pätica amatérskych kuchárov sa opäť stretne o titul hostiteľa týždňa, tentoraz však čisto gastronomické umenie stačiť nebude. Bodovanie sa novo rozdeľuje do dvoch kategórií – popri menu súťažiaci hodnotia aj atmosféru, ktorú hostiteľ dokáže vytvoriť. Sledujte premiérové diely plné kulinárskeho umenia, osobitých pováh a nečakaných stretnutí., (zábava), stereo</desc>
     <category lang="sk">zábava</category>
@@ -4042,42 +4042,42 @@ Bulharské perličky, (dokument), stereo</desc>
     <desc lang="sk">Farma Vojty Kotka je späť a s ňou ďalší rok života na českom vidieku. Na farme, ktorá sa každý deň mení, pribúdajú zvieratá, úroda aj práca okolo domu. Rodina postupne zisťuje, čo všetko obnáša zapustiť korene v malej dedine. Druhá sezóna prinesie nové výzvy, radosti aj poriadnu dávku driny. Sledujte, ako sa z farmárskeho sna stáva skutočný domov. Program je opatrený skrytými titulkami (ST), (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261127233000 +0100" stop="20261128001500 +0100" channel="CZ - PRIMA SK">
+  <programme start="20261127233000 +0100" stop="20261128001000 +0100" channel="CZ - PRIMA SK">
     <title lang="sk">Receptář prima nápadů</title>
     <desc lang="sk">Legendárny magazín pre pestovateľov, chovateľov, chalupárov, domácich majstrov a všetkých, ktorí chcú pohodlne bývať, príjemne relaxovať či zdravo žiť. Program s Oldřichom Navrátilom a jeho kolegami, plný sezónnych rád, tipov a názorných ukážok. Vaše chvíle pohody na nedeľné poludnie!, (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261128001500 +0100" stop="20261128004500 +0100" channel="CZ - PRIMA SK">
+  <programme start="20261128001000 +0100" stop="20261128004000 +0100" channel="CZ - PRIMA SK">
     <title lang="sk">Vychytávky Ládi Hrušky</title>
     <desc lang="sk">Kto iný ako Láďa Hruška! Pobaví, poradí, zoženie, vyskúša, vymyslí, predvedie, ušetrí, uvarí... Príde ku vám na záhradu, do dielne a aj do kuchyne! Triky, rady, vychytávky, ale aj najcennejšie rodinné recepty priamo z vašich domovov., (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261128004500 +0100" stop="20261128013500 +0100" channel="CZ - PRIMA SK">
+  <programme start="20261128004000 +0100" stop="20261128013000 +0100" channel="CZ - PRIMA SK">
     <title lang="sk">Show Jana Krause</title>
     <desc lang="sk">Jan Kraus, ako ho poznáte, v úspešnej šou! Aktuálni hostia, témy bez cenzúry a tá najlepšia late night show., (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
   <channel id="CZ - CNN PRIMA NEWS">
     <display-name>CNN Prima News</display-name>
-    <icon src="https://web02.antik.sk/assets/img/channels/beac74e18415c0d9f56926529f4001d5.svg" />
+    <icon src="https://web02.antik.sk/assets/img/channels/4debe2ab2b523d9882fa869e820584f7.svg" />
   </channel>
-  <programme start="20261127022000 +0100" stop="20261127030000 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261127020000 +0100" stop="20261127023000 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">Prima ČESKO</title>
     <desc lang="sk">Cestujte s námi po Česku a poznejte nejzajímavější místa naší země., (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261127030000 +0100" stop="20261127035500 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261127023000 +0100" stop="20261127041000 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">Co na to vaše zdraví</title>
     <desc lang="sk">Downův syndrom + Rakovina žaludku
 Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261127035500 +0100" stop="20261127041500 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261127041000 +0100" stop="20261127042500 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">SHOWTIME</title>
     <desc lang="sk">Exkluzivní zákulisí života celebrit – luxusní večírky, žhavé drby, slavnostní premiéry a módní trendy!, (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261127041500 +0100" stop="20261127055500 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261127042500 +0100" stop="20261127055500 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">360°</title>
     <desc lang="sk">Nejdůležitější události dne analyzované ze všech úhlů pohledu. Pokud o nich mluvíte, my taky., (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
@@ -4182,12 +4182,12 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <desc lang="sk">Nejdůležitější události dne analyzované ze všech úhlů pohledu. Pokud o nich mluvíte, my taky., (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261127230000 +0100" stop="20261128004500 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261127230000 +0100" stop="20261128004000 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">Zpravodajské centrum</title>
     <desc lang="sk">Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
   </programme>
-  <programme start="20261128004500 +0100" stop="20261128022500 +0100" channel="CZ - CNN PRIMA NEWS">
+  <programme start="20261128004000 +0100" stop="20261128020500 +0100" channel="CZ - CNN PRIMA NEWS">
     <title lang="sk">360°</title>
     <desc lang="sk">Nejdůležitější události dne analyzované ze všech úhlů pohledu. Pokud o nich mluvíte, my taky., (spravodajstvo), stereo</desc>
     <category lang="sk">spravodajstvo</category>
@@ -4196,37 +4196,37 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <display-name>Prima Cool SK</display-name>
     <icon src="https://web02.antik.sk/assets/img/channels/6abbba4fbabb01c0a5cb45e1be4e41ae.svg" />
   </channel>
-  <programme start="20261127011000 +0100" stop="20261127021500 +0100" channel="CZ - PRIMA COOL">
+  <programme start="20261127010000 +0100" stop="20261127020500 +0100" channel="CZ - PRIMA COOL">
     <title lang="sk">Prima Partička L</title>
     <desc lang="sk">Obľúbená a nespútaná Partička! Sledujte show, ktorá srší humorom, improvizáciou a neskutočnými momentmi, za ktorými aj tento rok budú stáť Michal Suchánek, Richard Genzer, Daniel Dangl, Jakub Kohák a Michal Novotný spoločne so špeciálnymi hosťami!, (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261127021500 +0100" stop="20261127025000 +0100" channel="CZ - PRIMA COOL">
+  <programme start="20261127020500 +0100" stop="20261127024000 +0100" channel="CZ - PRIMA COOL">
     <title lang="sk">Fotr na tripu XII</title>
     <desc lang="sk">Fotr na tripe, jeho dcéry a pes Lumi na legendárnej ceste za americkým snom po Route 66. UFO, hambáče, vysoké teploty, a hlavne nekonečná jazda! Program je opatrený skrytými titulkami (ST), (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261127025000 +0100" stop="20261127033000 +0100" channel="CZ - PRIMA COOL">
+  <programme start="20261127024000 +0100" stop="20261127032500 +0100" channel="CZ - PRIMA COOL">
     <title lang="sk">Policie v akci</title>
     <desc lang="sk">Štyri prípady, štyri ľudské osudy. Reálni policajti, prípady ukazujúce skutočný život a volanie o pomoc., (dokument), stereo</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261127033000 +0100" stop="20261127041500 +0100" channel="CZ - PRIMA COOL">
+  <programme start="20261127032500 +0100" stop="20261127041000 +0100" channel="CZ - PRIMA COOL">
     <title lang="sk">Policie v akci</title>
     <desc lang="sk">Štyri prípady, štyri ľudské osudy. Reálni policajti, prípady ukazujúce skutočný život a volanie o pomoc., (dokument), stereo</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261127041500 +0100" stop="20261127050500 +0100" channel="CZ - PRIMA COOL">
+  <programme start="20261127041000 +0100" stop="20261127050000 +0100" channel="CZ - PRIMA COOL">
     <title lang="sk">Autosalon</title>
     <desc lang="sk">Svetové novinky, neľútostné testy či koncepty budúcnosti v tradičnom motoristickom magazíne., (šport), stereo</desc>
     <category lang="sk">šport</category>
   </programme>
-  <programme start="20261127050500 +0100" stop="20261127053500 +0100" channel="CZ - PRIMA COOL">
+  <programme start="20261127050000 +0100" stop="20261127053000 +0100" channel="CZ - PRIMA COOL">
     <title lang="sk">Partička</title>
     <desc lang="sk">Improvizačná show, v ktorej je zábava tak hustá, že by sa dala krájať. Nenechajte si ujsť jedinečnú príležitosť vidieť, ako si konečne niekto robí srandu aj z Genzera a Suchánka. Konkrétne teda ich kolegovia Igor Chmela, Ondřej Sokol a samozrejme, Dano Dangl. A ako také trápenie známych zabávačov vyzerá? Uvidíte v Partičke!, (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261127053500 +0100" stop="20261127054500 +0100" channel="CZ - PRIMA COOL">
+  <programme start="20261127053000 +0100" stop="20261127054500 +0100" channel="CZ - PRIMA COOL">
     <title lang="sk">Vlakem přes Labské údolí</title>
     <desc lang="sk">(dokument), stereo</desc>
     <category lang="sk">dokument</category>
@@ -4235,49 +4235,49 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <title lang="sk">Vysielacia prestávka</title>
     <desc lang="sk">stereo</desc>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261127062000 +0100" channel="CZ - PRIMA COOL">
+  <programme start="20261127060000 +0100" stop="20261127065000 +0100" channel="CZ - PRIMA COOL">
     <title lang="sk">Vlakem přes Labské údolí</title>
     <desc lang="sk">(dokument), stereo</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261127062000 +0100" stop="20261127072500 +0100" channel="CZ - PRIMA COOL">
+  <programme start="20261127065000 +0100" stop="20261127075500 +0100" channel="CZ - PRIMA COOL">
     <title lang="sk">Top Gear XI (2)</title>
     <sub-title lang="sk">The skiers taking on Audi's RS6</sub-title>
     <desc lang="sk">(The skiers taking on Audi's RS6), Najslávnejší motoristický magazín sveta, ktorý pravidelne sleduje tristo miliónov divákov. Vizuálne pôsobivé predstavenie vozidiel je sprevádzané odľahčeným komentárom, ktorý zaujme nielen technických nadšencov. Preteky auta s rýchlovlakom, futbal s autami a mnoho ďalších šialených nápadov. A k tomu všetkému nesúrodá, a zároveň skvele sa doplňujúca trojica vtipných moderátorov. Britský magazín (2008 - 2009). Účinkujú: J. Clarkson, J. May, R. Hammond a ďalší. Program je opatrený skrytými titulkami (ST), (zábava, komédia), stereo, Veľká Británia, 2008</desc>
     <category lang="sk">zábava</category>
     <category lang="sk">komédia</category>
   </programme>
-  <programme start="20261127072500 +0100" stop="20261127082500 +0100" channel="CZ - PRIMA COOL">
+  <programme start="20261127075500 +0100" stop="20261127085000 +0100" channel="CZ - PRIMA COOL">
     <title lang="sk">Prima Partička</title>
     <desc lang="sk">Obľúbená a nespútaná Partička je späť. Sledujte show, ktorá srší humorom, improvizáciou a neskutočnými momentami, za ktorými budú aj tentokrát stáť Michal Suchánek, Richard Genzer, Dano Dangl a Igor Chmela. A tentokrát navyše so špeciálnymi hosťami!, (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261127082500 +0100" stop="20261127092000 +0100" channel="CZ - PRIMA COOL">
+  <programme start="20261127085000 +0100" stop="20261127094500 +0100" channel="CZ - PRIMA COOL">
     <title lang="sk">Policie v akci</title>
     <desc lang="sk">Štyri prípady, štyri ľudské osudy. Reálni policajti, prípady ukazujúce skutočný život a volanie o pomoc., (dokument), stereo</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261127092000 +0100" stop="20261127102500 +0100" channel="CZ - PRIMA COOL">
+  <programme start="20261127094500 +0100" stop="20261127104500 +0100" channel="CZ - PRIMA COOL">
     <title lang="sk">Autosalon</title>
     <desc lang="sk">Svetové novinky, neľútostné testy či koncepty budúcnosti v tradičnom motoristickom magazíne., (šport), stereo</desc>
     <category lang="sk">šport</category>
   </programme>
-  <programme start="20261127102500 +0100" stop="20261127111000 +0100" channel="CZ - PRIMA COOL">
+  <programme start="20261127104500 +0100" stop="20261127113000 +0100" channel="CZ - PRIMA COOL">
     <title lang="sk">Fotr na tripu XII</title>
     <desc lang="sk">Fotr na tripe, jeho dcéry a pes Lumi na legendárnej ceste za americkým snom po Route 66. UFO, hambáče, vysoké teploty, a hlavne nekonečná jazda! Program je opatrený skrytými titulkami (ST), (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261127111000 +0100" stop="20261127123500 +0100" channel="CZ - PRIMA COOL">
+  <programme start="20261127113000 +0100" stop="20261127125500 +0100" channel="CZ - PRIMA COOL">
     <title lang="sk">Prima Partička L</title>
     <desc lang="sk">Obľúbená a nespútaná Partička! Sledujte show, ktorá srší humorom, improvizáciou a neskutočnými momentmi, za ktorými aj tento rok budú stáť Michal Suchánek, Richard Genzer, Daniel Dangl, Jakub Kohák a Michal Novotný spoločne so špeciálnymi hosťami!, (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261127123500 +0100" stop="20261127132000 +0100" channel="CZ - PRIMA COOL">
+  <programme start="20261127125500 +0100" stop="20261127134000 +0100" channel="CZ - PRIMA COOL">
     <title lang="sk">Partička</title>
     <desc lang="sk">Improvizačná show, v ktorej je zábava tak hustá, že by sa dala krájať. Nenechajte si ujsť jedinečnú príležitosť vidieť, ako si konečne niekto robí srandu aj z Genzera a Suchánka. Konkrétne teda ich kolegovia Igor Chmela, Ondřej Sokol a samozrejme, Dano Dangl. A ako také trápenie známych zabávačov vyzerá? Uvidíte v Partičke!, (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261127132000 +0100" stop="20261127135000 +0100" channel="CZ - PRIMA COOL">
+  <programme start="20261127134000 +0100" stop="20261127140500 +0100" channel="CZ - PRIMA COOL">
     <title lang="sk">Simpsonovi XVIII (19)</title>
     <sub-title lang="sk">Crook and Ladder</sub-title>
     <desc lang="sk">(Crook and Ladder), Taká normálna žltá rodinka... Americký kultový animovaný seriál (2006 - 2007). Program je vybavený audiodeskripciou (AD) a skrytými titulkami (ST), (seriál, komédia, rodinný, animovaný), stereo, USA, 2007</desc>
@@ -4286,7 +4286,7 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">rodinný</category>
     <category lang="sk">animovaný</category>
   </programme>
-  <programme start="20261127135000 +0100" stop="20261127141000 +0100" channel="CZ - PRIMA COOL">
+  <programme start="20261127140500 +0100" stop="20261127142500 +0100" channel="CZ - PRIMA COOL">
     <title lang="sk">Simpsonovi XVIII (20)</title>
     <sub-title lang="sk">Stop, nebo můj pes vystřelí</sub-title>
     <desc lang="sk">(Stop, nebo můj pes vystřelí), Taká normálna žltá rodinka... Americký kultový animovaný seriál (2006 - 2007). Program je vybavený audiodeskripciou (AD) a skrytými titulkami (ST), (seriál, komédia, rodinný, animovaný), stereo, USA, 2007</desc>
@@ -4295,29 +4295,29 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">rodinný</category>
     <category lang="sk">animovaný</category>
   </programme>
-  <programme start="20261127141000 +0100" stop="20261127150500 +0100" channel="CZ - PRIMA COOL">
+  <programme start="20261127142500 +0100" stop="20261127152000 +0100" channel="CZ - PRIMA COOL">
     <title lang="sk">Policie v akci</title>
     <desc lang="sk">Štyri prípady, štyri ľudské osudy. Reálni policajti, prípady ukazujúce skutočný život a volanie o pomoc., (dokument), stereo</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261127150500 +0100" stop="20261127160500 +0100" channel="CZ - PRIMA COOL">
+  <programme start="20261127152000 +0100" stop="20261127161500 +0100" channel="CZ - PRIMA COOL">
     <title lang="sk">Policie v akci</title>
     <desc lang="sk">Štyri prípady, štyri ľudské osudy. Reálni policajti, prípady ukazujúce skutočný život a volanie o pomoc., (dokument), stereo</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261127160500 +0100" stop="20261127171000 +0100" channel="CZ - PRIMA COOL">
+  <programme start="20261127161500 +0100" stop="20261127172000 +0100" channel="CZ - PRIMA COOL">
     <title lang="sk">Autosalon</title>
     <desc lang="sk">Svetové novinky, neľútostné testy či koncepty budúcnosti v tradičnom motoristickom magazíne., (šport), stereo</desc>
     <category lang="sk">šport</category>
   </programme>
-  <programme start="20261127171000 +0100" stop="20261127182000 +0100" channel="CZ - PRIMA COOL">
+  <programme start="20261127172000 +0100" stop="20261127183000 +0100" channel="CZ - PRIMA COOL">
     <title lang="sk">Top Gear XI (3)</title>
     <sub-title lang="sk">The cheap Alfas</sub-title>
     <desc lang="sk">(The cheap Alfas), Najslávnejší motoristický magazín sveta, ktorý pravidelne sleduje tristo miliónov divákov. Vizuálne pôsobivé predstavenie vozidiel je sprevádzané odľahčeným komentárom, ktorý zaujme nielen technických nadšencov. Preteky auta s rýchlovlakom, futbal s autami a mnoho ďalších šialených nápadov. A k tomu všetkému nesúrodá, a zároveň skvele sa doplňujúca trojica vtipných moderátorov. Britský magazín (2008 - 2009). Účinkujú: J. Clarkson, J. May, R. Hammond a ďalší. Program je opatrený skrytými titulkami (ST), (zábava, komédia), stereo, Veľká Británia, 2008</desc>
     <category lang="sk">zábava</category>
     <category lang="sk">komédia</category>
   </programme>
-  <programme start="20261127182000 +0100" stop="20261127185000 +0100" channel="CZ - PRIMA COOL">
+  <programme start="20261127183000 +0100" stop="20261127185000 +0100" channel="CZ - PRIMA COOL">
     <title lang="sk">Simpsonovi XVIII (21)</title>
     <sub-title lang="sk">24 minut</sub-title>
     <desc lang="sk">(24 minut), Taká normálna žltá rodinka... Americký kultový animovaný seriál (2006 - 2007). Program je vybavený audiodeskripciou (AD) a skrytými titulkami (ST), (seriál, komédia, rodinný, animovaný), stereo, USA, 2007</desc>
@@ -4345,12 +4345,12 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <desc lang="sk">Obľúbená a nespútaná Partička! Sledujte show, ktorá srší humorom, improvizáciou a neskutočnými momentmi, za ktorými aj tento rok budú stáť Michal Suchánek, Richard Genzer, Daniel Dangl, Igor Chmela a Michal Novotný spoločne so špeciálnymi hosťami!, (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261127211500 +0100" stop="20261127222500 +0100" channel="CZ - PRIMA COOL">
+  <programme start="20261127211500 +0100" stop="20261127222000 +0100" channel="CZ - PRIMA COOL">
     <title lang="sk">Clarksonova farma III (6)</title>
     <desc lang="sk">Ďalší rok plný nástrah, driny a nečakaného humoru s Jeremym Clarksonom, ktorý sa vrhol do farmárčenia. Po boku svojej nesúrodej party čelí rozmarom počasia, tvrdohlavým či chorým zvieratám aj neúrode... Britská reality show (2024). Program je opatrený skrytými titulkami (ST), (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261127222500 +0100" stop="20261127225500 +0100" channel="CZ - PRIMA COOL">
+  <programme start="20261127222000 +0100" stop="20261127224500 +0100" channel="CZ - PRIMA COOL">
     <title lang="sk">Simpsonovi XVIII (21)</title>
     <sub-title lang="sk">24 minut</sub-title>
     <desc lang="sk">(24 minut), Taká normálna žltá rodinka... Americký kultový animovaný seriál (2006 - 2007). Program je vybavený audiodeskripciou (AD) a skrytými titulkami (ST), (seriál, komédia, rodinný, animovaný), stereo, USA, 2007</desc>
@@ -4359,7 +4359,7 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">rodinný</category>
     <category lang="sk">animovaný</category>
   </programme>
-  <programme start="20261127225500 +0100" stop="20261127231500 +0100" channel="CZ - PRIMA COOL">
+  <programme start="20261127224500 +0100" stop="20261127231000 +0100" channel="CZ - PRIMA COOL">
     <title lang="sk">Simpsonovi XVIII (22)</title>
     <sub-title lang="sk">You Kent Always Say What You Want</sub-title>
     <desc lang="sk">(You Kent Always Say What You Want), Taká normálna žltá rodinka... Americký kultový animovaný seriál (2006 - 2007). Program je vybavený audiodeskripciou (AD) a skrytými titulkami (ST), (seriál, komédia, rodinný, animovaný), stereo, USA, 2007</desc>
@@ -4368,136 +4368,141 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">rodinný</category>
     <category lang="sk">animovaný</category>
   </programme>
-  <programme start="20261127231500 +0100" stop="20261128002000 +0100" channel="CZ - PRIMA COOL">
+  <programme start="20261127231000 +0100" stop="20261128001000 +0100" channel="CZ - PRIMA COOL">
     <title lang="sk">Top Gear XI (3)</title>
     <sub-title lang="sk">The cheap Alfas</sub-title>
     <desc lang="sk">(The cheap Alfas), Najslávnejší motoristický magazín sveta, ktorý pravidelne sleduje tristo miliónov divákov. Vizuálne pôsobivé predstavenie vozidiel je sprevádzané odľahčeným komentárom, ktorý zaujme nielen technických nadšencov. Preteky auta s rýchlovlakom, futbal s autami a mnoho ďalších šialených nápadov. A k tomu všetkému nesúrodá, a zároveň skvele sa doplňujúca trojica vtipných moderátorov. Britský magazín (2008 - 2009). Účinkujú: J. Clarkson, J. May, R. Hammond a ďalší. Program je opatrený skrytými titulkami (ST), (zábava, komédia), stereo, Veľká Británia, 2008</desc>
     <category lang="sk">zábava</category>
     <category lang="sk">komédia</category>
   </programme>
-  <programme start="20261128002000 +0100" stop="20261128010500 +0100" channel="CZ - PRIMA COOL">
+  <programme start="20261128001000 +0100" stop="20261128005500 +0100" channel="CZ - PRIMA COOL">
     <title lang="sk">Prima Partička</title>
     <desc lang="sk">Obľúbená a nespútaná Partička je späť. Sledujte show, ktorá srší humorom, improvizáciou a neskutočnými momentami, za ktorými budú aj tentokrát stáť Michal Suchánek, Richard Genzer, Dano Dangl a Igor Chmela. A tentokrát navyše so špeciálnymi hosťami!, (zábava), stereo</desc>
+    <category lang="sk">zábava</category>
+  </programme>
+  <programme start="20261128005500 +0100" stop="20261128014500 +0100" channel="CZ - PRIMA COOL">
+    <title lang="sk">Prima Partička</title>
+    <desc lang="sk">Obľúbená a nespútaná Partička! Sledujte show, ktorá srší humorom, improvizáciou a neskutočnými momentmi, za ktorými aj tento rok budú stáť Michal Suchánek, Richard Genzer, Daniel Dangl, Igor Chmela a Michal Novotný spoločne so špeciálnymi hosťami!, (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
   <channel id="CZ - PRIMA LOVE">
     <display-name>Prima Love SK</display-name>
     <icon src="https://web02.antik.sk/assets/img/channels/a36b4ee140d7f68639cd56b7e4cc9122.svg" />
   </channel>
-  <programme start="20261127011000 +0100" stop="20261127015500 +0100" channel="CZ - PRIMA LOVE">
+  <programme start="20261127010500 +0100" stop="20261127015000 +0100" channel="CZ - PRIMA LOVE">
     <title lang="sk">V hre je láska I (71)</title>
     <desc lang="sk">Defne pochádza zo skromných pomerov a v živote má iba starosti a chaos. Ömer je naopak úspešný introvertný workoholik z bohatej rodiny, ktorá sa mu snaží nájsť nevestu za každú cenu. Týchto dvoch úplne odlišných ľudí nespojil len osud, niekto mu značne pomohol... Turecký romantický seriál (2015). Hrajú: E. Sanguová, B. Arduç, S. Bademci a ďalší., (seriál, komédia, romantika), stereo</desc>
     <category lang="sk">seriál</category>
     <category lang="sk">komédia</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261127015500 +0100" stop="20261127024000 +0100" channel="CZ - PRIMA LOVE">
+  <programme start="20261127015000 +0100" stop="20261127023500 +0100" channel="CZ - PRIMA LOVE">
     <title lang="sk">V hre je láska I (72)</title>
     <desc lang="sk">Defne pochádza zo skromných pomerov a v živote má iba starosti a chaos. Ömer je naopak úspešný introvertný workoholik z bohatej rodiny, ktorá sa mu snaží nájsť nevestu za každú cenu. Týchto dvoch úplne odlišných ľudí nespojil len osud, niekto mu značne pomohol... Turecký romantický seriál (2015). Hrajú: E. Sanguová, B. Arduç, S. Bademci a ďalší., (seriál, komédia, romantika)</desc>
     <category lang="sk">seriál</category>
     <category lang="sk">komédia</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261127024000 +0100" stop="20261127032500 +0100" channel="CZ - PRIMA LOVE">
+  <programme start="20261127023500 +0100" stop="20261127031500 +0100" channel="CZ - PRIMA LOVE">
     <title lang="sk">Záchranáři z hor II (3)</title>
     <sub-title lang="sk">Čin zo zúfalstva</sub-title>
     <desc lang="sk">(Čin zo zúfalstva), Andreas a ostatní členovia horskej služby nájdu zrúteného muža. Vychádza najavo, že ho niekto strčil a v nebezpečenstve je aj jeho snúbenica, ktorú ohrozuje bývalý manžel. Nemecký seriál (2010). Hrajú: M. Gruber, S. von Poserová, S. Stumphová a ďalší. Program je opatrený skrytými titulkami (ST), (seriál, akcia), stereo, 2010</desc>
     <category lang="sk">seriál</category>
     <category lang="sk">akcia</category>
   </programme>
-  <programme start="20261127032500 +0100" stop="20261127040500 +0100" channel="CZ - PRIMA LOVE">
+  <programme start="20261127031500 +0100" stop="20261127040000 +0100" channel="CZ - PRIMA LOVE">
     <title lang="sk">Záchranáři z hor II (4)</title>
     <sub-title lang="sk">Falošná stopa</sub-title>
     <desc lang="sk">(Falošná stopa), Populárna hra geocaching je určite zaujímavá, ale pokiaľ sa prevádzkuje vo vysokých horách, môže sa z prima zábavy stať boj o holý život. Andreas a jeho tím zachraňujú pár nie príliš zodpovedných tínedžerov. Nemecký seriál (2010). Hrajú: M. Gruber, S. von Poserová, S. Stumphová a ďalší. Program je opatrený skrytými titulkami (ST), (seriál, akcia), stereo, 2010</desc>
     <category lang="sk">seriál</category>
     <category lang="sk">akcia</category>
   </programme>
-  <programme start="20261127040500 +0100" stop="20261127045000 +0100" channel="CZ - PRIMA LOVE">
+  <programme start="20261127040000 +0100" stop="20261127044000 +0100" channel="CZ - PRIMA LOVE">
     <title lang="sk">Prostřeno!</title>
     <desc lang="sk">Päť súťažiacich, päť večerov, menu tradičné aj exotické. Reality šou Prostřeno! je každodennou návštevou vašich domovov, prehliadkou tancov okolo platne, lákavou ochutnávkou, ale aj sondou odolnosti zúčastnených., (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261127045000 +0100" stop="20261127054000 +0100" channel="CZ - PRIMA LOVE">
+  <programme start="20261127044000 +0100" stop="20261127054600 +0100" channel="CZ - PRIMA LOVE">
     <title lang="sk">Jak se staví sen</title>
     <desc lang="sk">Sledujte premeny vašich domovov a splňte si sen o krajšom bývaní. Za päť dní vytvoríme nové miesto, kde sa nielen lepšie býva, ale aj lepšie žije. Chýbať nebudú ani rady dizajnérov a odborníkov. Uvádza L. Něrgešová. Program je opatrený skrytými titulkami (ST), (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261127054000 +0100" stop="20261127060000 +0100" channel="CZ - PRIMA LOVE">
+  <programme start="20261127054600 +0100" stop="20261127061000 +0100" channel="CZ - PRIMA LOVE">
     <title lang="sk">Vysielacia prestávka</title>
     <desc lang="sk">stereo</desc>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261127061000 +0100" channel="CZ - PRIMA LOVE">
+  <programme start="20261127061000 +0100" stop="20261127064500 +0100" channel="CZ - PRIMA LOVE">
     <title lang="sk">Relaxační podívaná</title>
     <desc lang="sk">(zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261127061000 +0100" stop="20261127080500 +0100" channel="CZ - PRIMA LOVE">
+  <programme start="20261127064500 +0100" stop="20261127083500 +0100" channel="CZ - PRIMA LOVE">
     <title lang="sk">Inga Lindström</title>
     <desc lang="sk">Maren sa vracia k rodičom, aby s nimi oslávila striebornú svadbu. Ako darček im prinesie obraz, ktorý kúpi v neďalekom starožitníctve, a tým spustí lavínu udalostí, ktorá so sebou prinesie nejedno prekvapenie... Nemecký romantický príbeh z cyklu televíznych filmov podľa románov Ingy Lindströmovej (2020). Hrajú: C. Achleitner, U. Buschhornová, M. Hinschingová a ďalší. Réžia: O. Dieckmann., (seriál, dráma, romantika), stereo, Nemecko, 2004</desc>
     <category lang="sk">seriál</category>
     <category lang="sk">dráma</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261127080500 +0100" stop="20261127091000 +0100" channel="CZ - PRIMA LOVE">
+  <programme start="20261127083500 +0100" stop="20261127093500 +0100" channel="CZ - PRIMA LOVE">
     <title lang="sk">Ano, šéfe!</title>
     <desc lang="sk">Sme tu preto, aby ste v reštauráciách nejedli blafy! Zdeněk Pohlreich v dnes už legendárnom programe, ktorý zmenil tvár nielen českých gastronomických podnikov. Program je opatrený skrytými titulkami (ST)Sme tu preto, aby ste v reštauráciách nejedli blafy! Zdeněk Pohlreich v dnes už legendárnom programe, ktorý zmenil tvár nielen českých gastronomických podnikov. Program je opatrený skrytými titulkami (ST) (2009), (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261127091000 +0100" stop="20261127101000 +0100" channel="CZ - PRIMA LOVE">
+  <programme start="20261127093500 +0100" stop="20261127103000 +0100" channel="CZ - PRIMA LOVE">
     <title lang="sk">Záchranáři z hor II (3)</title>
     <sub-title lang="sk">Čin zo zúfalstva</sub-title>
     <desc lang="sk">(Čin zo zúfalstva), Andreas a ostatní členovia horskej služby nájdu zrúteného muža. Vychádza najavo, že ho niekto strčil a v nebezpečenstve je aj jeho snúbenica, ktorú ohrozuje bývalý manžel. Nemecký seriál (2010). Hrajú: M. Gruber, S. von Poserová, S. Stumphová a ďalší. Program je opatrený skrytými titulkami (ST), (seriál, akcia), stereo, 2010</desc>
     <category lang="sk">seriál</category>
     <category lang="sk">akcia</category>
   </programme>
-  <programme start="20261127101000 +0100" stop="20261127110500 +0100" channel="CZ - PRIMA LOVE">
+  <programme start="20261127103000 +0100" stop="20261127112500 +0100" channel="CZ - PRIMA LOVE">
     <title lang="sk">Záchranáři z hor II (4)</title>
     <sub-title lang="sk">Falošná stopa</sub-title>
     <desc lang="sk">(Falošná stopa), Populárna hra geocaching je určite zaujímavá, ale pokiaľ sa prevádzkuje vo vysokých horách, môže sa z prima zábavy stať boj o holý život. Andreas a jeho tím zachraňujú pár nie príliš zodpovedných tínedžerov. Nemecký seriál (2010). Hrajú: M. Gruber, S. von Poserová, S. Stumphová a ďalší. Program je opatrený skrytými titulkami (ST), (seriál, akcia), stereo, 2010</desc>
     <category lang="sk">seriál</category>
     <category lang="sk">akcia</category>
   </programme>
-  <programme start="20261127110500 +0100" stop="20261127121000 +0100" channel="CZ - PRIMA LOVE">
+  <programme start="20261127112500 +0100" stop="20261127123000 +0100" channel="CZ - PRIMA LOVE">
     <title lang="sk">Velmi křehké vztahy II (79)</title>
     <sub-title lang="sk">Úskokem vpřed</sub-title>
     <desc lang="sk">(Úskokem vpřed), Šliapem si po šťastí. Darček z lásky. Pôvodný český seriál. Hrajú: D. Morávková, Z. Žádníková-Volencová, H. Holišová, D. Bambas, V. Limr, L. Termerová, J. Kačer, O. Kallus, O. Vízner, S. Rašilov, M. Mejzlík, J. Maléř, L. Něrgešová a ďalší. Réžia: V. Drha., (seriál, romantika), stereo, 2008</desc>
     <category lang="sk">seriál</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261127121000 +0100" stop="20261127131500 +0100" channel="CZ - PRIMA LOVE">
+  <programme start="20261127123000 +0100" stop="20261127133000 +0100" channel="CZ - PRIMA LOVE">
     <title lang="sk">Velmi křehké vztahy II (80)</title>
     <sub-title lang="sk">Světlé zítřky</sub-title>
     <desc lang="sk">(Světlé zítřky), Budem čakať. Z pozície moci. Pôvodný český seriál. Hrajú: D. Morávková, Z. Žádníková-Volencová, H. Holišová, D. Bambas, V. Limr, L. Termerová, J. Kačer, O. Kallus, O. Vízner, S. Rašilov, M. Mejzlík, J. Maléř, L. Něrgešová a ďalší. Réžia: V. Drha., (seriál, romantika), stereo, 2008</desc>
     <category lang="sk">seriál</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261127131500 +0100" stop="20261127151500 +0100" channel="CZ - PRIMA LOVE">
+  <programme start="20261127133000 +0100" stop="20261127152500 +0100" channel="CZ - PRIMA LOVE">
     <title lang="sk">Inga Lindström</title>
     <desc lang="sk">Mladá fyzioterapeutka Maja sa musí rozhodnúť, či zostane v meste, alebo zanechá svoje povolanie a vráti sa na vidiek zachrániť rodinnú farmu... Nemecký romantický príbeh z cyklu televíznych filmov podľa románov Ingy Lindströmovej (2021). Hrajú: Z. Mooreová, P. Thiller, M. Mairhofer a ďalší. Réžia: O. Dickemann., (seriál, dráma, romantika), stereo, Nemecko, 2004</desc>
     <category lang="sk">seriál</category>
     <category lang="sk">dráma</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261127151500 +0100" stop="20261127161500 +0100" channel="CZ - PRIMA LOVE">
+  <programme start="20261127152500 +0100" stop="20261127162000 +0100" channel="CZ - PRIMA LOVE">
     <title lang="sk">V hre je láska I (73)</title>
     <desc lang="sk">Defne pochádza zo skromných pomerov a v živote má iba starosti a chaos. Ömer je naopak úspešný introvertný workoholik z bohatej rodiny, ktorá sa mu snaží nájsť nevestu za každú cenu. Týchto dvoch úplne odlišných ľudí nespojil len osud, niekto mu značne pomohol... Turecký romantický seriál (2015). Hrajú: E. Sanguová, B. Arduç, S. Bademci a ďalší., (seriál, komédia, romantika)</desc>
     <category lang="sk">seriál</category>
     <category lang="sk">komédia</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261127161500 +0100" stop="20261127171500 +0100" channel="CZ - PRIMA LOVE">
+  <programme start="20261127162000 +0100" stop="20261127172000 +0100" channel="CZ - PRIMA LOVE">
     <title lang="sk">V hre je láska I (74)</title>
     <desc lang="sk">Defne pochádza zo skromných pomerov a v živote má iba starosti a chaos. Ömer je naopak úspešný introvertný workoholik z bohatej rodiny, ktorá sa mu snaží nájsť nevestu za každú cenu. Týchto dvoch úplne odlišných ľudí nespojil len osud, niekto mu značne pomohol... Turecký romantický seriál (2015). Hrajú: E. Sanguová, B. Arduç, S. Bademci a ďalší., (seriál, komédia, romantika)</desc>
     <category lang="sk">seriál</category>
     <category lang="sk">komédia</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261127171500 +0100" stop="20261127181500 +0100" channel="CZ - PRIMA LOVE">
+  <programme start="20261127172000 +0100" stop="20261127182000 +0100" channel="CZ - PRIMA LOVE">
     <title lang="sk">Ano, šéfe!</title>
     <desc lang="sk">Sme tu preto, aby ste v reštauráciách nejedli blafy! Zdeněk Pohlreich v dnes už legendárnom programe, ktorý zmenil tvár nielen českých gastronomických podnikov. Program je opatrený skrytými titulkami (ST)Sme tu preto, aby ste v reštauráciách nejedli blafy! Zdeněk Pohlreich v dnes už legendárnom programe, ktorý zmenil tvár nielen českých gastronomických podnikov. Program je opatrený skrytými titulkami (ST) (2009), (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261127181500 +0100" stop="20261127191500 +0100" channel="CZ - PRIMA LOVE">
+  <programme start="20261127182000 +0100" stop="20261127191500 +0100" channel="CZ - PRIMA LOVE">
     <title lang="sk">Záchranáři z hor II (5)</title>
     <sub-title lang="sk">Priateľská služba</sub-title>
     <desc lang="sk">(Priateľská služba), Andreas sa po čase stretáva s priateľom - horolezcom Sebastianom, ktorý by rád zliezol Dachstein cestou, ktorou sa im to pred rokmi nepodarilo. Má nádor na mozgu a nechce sa liečiť. Andreas odmieta a Sebastian sa tam vydá sám, bez istenia. Cez Andreasovu snahu o pomoc, sa však ani tento pokus nepodarí a Sebastian sa zrúti do hlbiny. Nemecký seriál (2010). Hrajú: M. Gruber, S. von Poserová, S. Stumphová a ďalší. Program je opatrený skrytými titulkami (ST), (seriál, akcia), stereo, 2010</desc>
@@ -4511,26 +4516,26 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">seriál</category>
     <category lang="sk">akcia</category>
   </programme>
-  <programme start="20261127201500 +0100" stop="20261127221000 +0100" channel="CZ - PRIMA LOVE">
+  <programme start="20261127201500 +0100" stop="20261127220500 +0100" channel="CZ - PRIMA LOVE">
     <title lang="sk">Inga Lindström</title>
     <desc lang="sk">Klára zachraňuje hudobnú školu, ktorú prevádzkovala jej rodina. Zároveň sa dozvie aj dávne rodinné tajomstvo... Nemecký romantický príbeh z cyklu televíznych filmov podľa románov Ingy Lindströmovej (2021). Hrajú: L. Rainerová, T. van Dieken, F. Sztavjanik a ďalší. Réžia: S. Allet-Cocheová., (seriál, dráma, romantika), stereo, Nemecko, 2004</desc>
     <category lang="sk">seriál</category>
     <category lang="sk">dráma</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261127221000 +0100" stop="20261127231500 +0100" channel="CZ - PRIMA LOVE">
+  <programme start="20261127220500 +0100" stop="20261127231000 +0100" channel="CZ - PRIMA LOVE">
     <title lang="sk">Ano, šéfe!</title>
     <desc lang="sk">Sme tu preto, aby ste v reštauráciách nejedli blafy! Zdeněk Pohlreich v dnes už legendárnom programe, ktorý zmenil tvár nielen českých gastronomických podnikov. Program je opatrený skrytými titulkami (ST)Sme tu preto, aby ste v reštauráciách nejedli blafy! Zdeněk Pohlreich v dnes už legendárnom programe, ktorý zmenil tvár nielen českých gastronomických podnikov. Program je opatrený skrytými titulkami (ST) (2009), (zábava), stereo</desc>
     <category lang="sk">zábava</category>
   </programme>
-  <programme start="20261127231500 +0100" stop="20261128002000 +0100" channel="CZ - PRIMA LOVE">
+  <programme start="20261127231000 +0100" stop="20261128001000 +0100" channel="CZ - PRIMA LOVE">
     <title lang="sk">Velmi křehké vztahy II (79)</title>
     <sub-title lang="sk">Úskokem vpřed</sub-title>
     <desc lang="sk">(Úskokem vpřed), Šliapem si po šťastí. Darček z lásky. Pôvodný český seriál. Hrajú: D. Morávková, Z. Žádníková-Volencová, H. Holišová, D. Bambas, V. Limr, L. Termerová, J. Kačer, O. Kallus, O. Vízner, S. Rašilov, M. Mejzlík, J. Maléř, L. Něrgešová a ďalší. Réžia: V. Drha., (seriál, romantika), stereo, 2008</desc>
     <category lang="sk">seriál</category>
     <category lang="sk">romantika</category>
   </programme>
-  <programme start="20261128002000 +0100" stop="20261128011000 +0100" channel="CZ - PRIMA LOVE">
+  <programme start="20261128001000 +0100" stop="20261128010000 +0100" channel="CZ - PRIMA LOVE">
     <title lang="sk">Velmi křehké vztahy II (80)</title>
     <sub-title lang="sk">Světlé zítřky</sub-title>
     <desc lang="sk">(Světlé zítřky), Budem čakať. Z pozície moci. Pôvodný český seriál. Hrajú: D. Morávková, Z. Žádníková-Volencová, H. Holišová, D. Bambas, V. Limr, L. Termerová, J. Kačer, O. Kallus, O. Vízner, S. Rašilov, M. Mejzlík, J. Maléř, L. Něrgešová a ďalší. Réžia: V. Drha., (seriál, romantika), stereo, 2008</desc>
@@ -4541,27 +4546,27 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <display-name>Prima Krimi SK</display-name>
     <icon src="https://web02.antik.sk/assets/img/channels/96fca01ed869056cb897133bd7895f49.svg" />
   </channel>
-  <programme start="20261127012500 +0100" stop="20261127020500 +0100" channel="CZ - PRIMA KRIMI">
+  <programme start="20261127012000 +0100" stop="20261127020500 +0100" channel="CZ - PRIMA KRIMI">
     <title lang="sk">Vraždy, které šokovaly XXIV (8)</title>
     <sub-title lang="sk">Cynthia Coates</sub-title>
     <desc lang="sk">(Cynthia Coates), Spoznajte priebeh vyšetrovania prostredníctvom svedkov, rodiny i odborníkov a odhaľte, čo ženy – vrahyne viedlo k spáchaniu trestných zločinov... Americký dokumentárny seriál (2018)., (dokument, krimi), stereo, 2018</desc>
     <category lang="sk">dokument</category>
     <category lang="sk">krimi</category>
   </programme>
-  <programme start="20261127020500 +0100" stop="20261127025000 +0100" channel="CZ - PRIMA KRIMI">
+  <programme start="20261127020500 +0100" stop="20261127024500 +0100" channel="CZ - PRIMA KRIMI">
     <title lang="sk">Vraždy, které šokovaly XXIV (9)</title>
     <sub-title lang="sk">Doretta Scheffield</sub-title>
     <desc lang="sk">(Doretta Scheffield), Spoznajte priebeh vyšetrovania prostredníctvom svedkov, rodiny i odborníkov a odhaľte, čo ženy – vrahyne viedlo k spáchaniu trestných zločinov... Americký dokumentárny seriál (2018)., (dokument, krimi), stereo, USA, 2018</desc>
     <category lang="sk">dokument</category>
     <category lang="sk">krimi</category>
   </programme>
-  <programme start="20261127025000 +0100" stop="20261127033000 +0100" channel="CZ - PRIMA KRIMI">
+  <programme start="20261127024500 +0100" stop="20261127032500 +0100" channel="CZ - PRIMA KRIMI">
     <title lang="sk">Vraždy, které šokovaly XXIII (28)</title>
     <desc lang="sk">Spoznajte priebeh vyšetrovania prostredníctvom svedkov, rodiny i odborníkov a odhaľte, čo ženy - vrahyne viedlo k spáchaniu trestných zločinov... Americký dokumentárny seriál (2018)., (dokument, krimi), stereo</desc>
     <category lang="sk">dokument</category>
     <category lang="sk">krimi</category>
   </programme>
-  <programme start="20261127033000 +0100" stop="20261127041000 +0100" channel="CZ - PRIMA KRIMI">
+  <programme start="20261127032500 +0100" stop="20261127041000 +0100" channel="CZ - PRIMA KRIMI">
     <title lang="sk">Vraždy, které šokovaly XXIII (29)</title>
     <desc lang="sk">Spoznajte priebeh vyšetrovania prostredníctvom svedkov, rodiny i odborníkov a odhaľte, čo ženy - vrahyne viedlo k spáchaniu trestných zločinov... Americký dokumentárny seriál (2018)., (dokument, krimi), stereo</desc>
     <category lang="sk">dokument</category>
@@ -4572,26 +4577,26 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <desc lang="sk">Štyri prípady, štyri ľudské osudy. Reálni policajti, prípady ukazujúce skutočný život a volanie o pomoc., (dokument), stereo</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261127045500 +0100" stop="20261127053500 +0100" channel="CZ - PRIMA KRIMI">
+  <programme start="20261127045500 +0100" stop="20261127053000 +0100" channel="CZ - PRIMA KRIMI">
     <title lang="sk">Policie v akci</title>
     <desc lang="sk">Štyri prípady, štyri ľudské osudy. Reálni policajti, prípady ukazujúce skutočný život a volanie o pomoc., (dokument), stereo</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261127053500 +0100" stop="20261127054500 +0100" channel="CZ - PRIMA KRIMI">
+  <programme start="20261127053000 +0100" stop="20261127060000 +0100" channel="CZ - PRIMA KRIMI">
     <title lang="sk">Noční Praha</title>
     <desc lang="sk">(dokument), stereo</desc>
     <category lang="sk">dokument</category>
   </programme>
-  <programme start="20261127054500 +0100" stop="20261127060000 +0100" channel="CZ - PRIMA KRIMI">
+  <programme start="20261127060000 +0100" stop="20261127070400 +0100" channel="CZ - PRIMA KRIMI">
+    <title lang="sk">Noční Praha</title>
+    <desc lang="sk">(dokument), stereo</desc>
+    <category lang="sk">dokument</category>
+  </programme>
+  <programme start="20261127070400 +0100" stop="20261127072000 +0100" channel="CZ - PRIMA KRIMI">
     <title lang="sk">Vysielacia prestávka</title>
     <desc lang="sk">stereo</desc>
   </programme>
-  <programme start="20261127060000 +0100" stop="20261127063000 +0100" channel="CZ - PRIMA KRIMI">
-    <title lang="sk">Noční Praha</title>
-    <desc lang="sk">(dokument), stereo</desc>
-    <category lang="sk">dokument</category>
-  </programme>
-  <programme start="20261127063000 +0100" stop="20261127083500 +0100" channel="CZ - PRIMA KRIMI">
+  <programme start="20261127072000 +0100" stop="20261127091500 +0100" channel="CZ - PRIMA KRIMI">
     <title lang="sk">Julie Lescautová VII (3)</title>
     <sub-title lang="sk">Piége pour un flic</sub-title>
     <desc lang="sk">(Piége pour un flic), Keď sa komisárka Lescautová začne zaoberať vraždou študenta, ešte netuší, že sa jej do vyšetrovania pripletie vlastná dcéra... Francúzsky kriminálny seriál (2008). Hrajú: V. Genestová, A. Desseaux, J. Lauretová a ďalší. Réžia: J. M. Fages. Program je vybavený audiodeskripciou (AD) a skrytými titulkami (ST), (seriál, dráma, krimi), stereo, 1998</desc>
@@ -4599,7 +4604,7 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">dráma</category>
     <category lang="sk">krimi</category>
   </programme>
-  <programme start="20261127083500 +0100" stop="20261127103000 +0100" channel="CZ - PRIMA KRIMI">
+  <programme start="20261127091500 +0100" stop="20261127110500 +0100" channel="CZ - PRIMA KRIMI">
     <title lang="sk">Vraždy v Oxfordu VIII (2)</title>
     <sub-title lang="sk">Entry Wounds: Part 2</sub-title>
     <desc lang="sk">(Entry Wounds: Part 2), Deň po tom, čo je prepustený z väzenia, je bývalý univerzitný profesor nájdený prejdený vlastným autom. Keďže bol odsúdený za jazdu pod vplyvom alkoholu, počas ktorej zabil mladé dievča, inšpektor Lewis pojme podozrenie, že mohlo ísť o pomstu... Britský kriminálny seriál (2012). Hrajú: K. Whately, L. Fox, C. Holmanová a ďalší. Program je opatrený skrytými titulkami (ST), (seriál, dráma, krimi, fantastika), stereo, Veľká Británia, 2014</desc>
@@ -4608,7 +4613,7 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">krimi</category>
     <category lang="sk">fantastika</category>
   </programme>
-  <programme start="20261127103000 +0100" stop="20261127122500 +0100" channel="CZ - PRIMA KRIMI">
+  <programme start="20261127110500 +0100" stop="20261127125000 +0100" channel="CZ - PRIMA KRIMI">
     <title lang="sk">Julie Lescautová VIII (1)</title>
     <sub-title lang="sk">Vykúpenie</sub-title>
     <desc lang="sk">(Vykúpenie), Známy jasnovidec bol zavraždený. Komisárka Lescautová však pri vyšetrovaní prípadu zisťuje, že nemal magické schopnosti, ale skôr detektívny talent. Francúzsky kriminálny seriál (2010). Hrajú: V. Genestová, G. Gabriel, J. Lauretová a ďalší. Réžia: D. Tabuteau. Program je vybavený audiodeskripciou (AD) a skrytými titulkami (ST), (seriál, dráma, krimi), stereo, 1999</desc>
@@ -4616,7 +4621,7 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">dráma</category>
     <category lang="sk">krimi</category>
   </programme>
-  <programme start="20261127122500 +0100" stop="20261127132000 +0100" channel="CZ - PRIMA KRIMI">
+  <programme start="20261127125000 +0100" stop="20261127134500 +0100" channel="CZ - PRIMA KRIMI">
     <title lang="sk">Vraždy v Kitzbühelu XI (5)</title>
     <sub-title lang="sk">Licht und Schatten</sub-title>
     <desc lang="sk">(Licht und Schatten), Na kitzbühelskom stomatologickom kongrese došlo k nečakanej udalosti. Jeden zo zubárov zistil, že cvičná čeľusť patrí jeho pacientovi, ktorý je už týždeň nezvestný... Rakúsky kriminálny seriál (2011). Hrajú: K. Sprengerová, H. Sigl, H. Marecek a ďalší. Program je opatrený skrytými titulkami (ST), (seriál, akcia, krimi), stereo, 2012</desc>
@@ -4624,7 +4629,7 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">akcia</category>
     <category lang="sk">krimi</category>
   </programme>
-  <programme start="20261127132000 +0100" stop="20261127142000 +0100" channel="CZ - PRIMA KRIMI">
+  <programme start="20261127134500 +0100" stop="20261127144000 +0100" channel="CZ - PRIMA KRIMI">
     <title lang="sk">Vraždy v Kitzbühelu XI (6)</title>
     <sub-title lang="sk">Černý kníže</sub-title>
     <desc lang="sk">(Černý kníže), Karin a Lukas vyšetrujú ďalšiu vraždu. V rokline neďaleko Kitzbühelu bolo nájdené telo len štrnásťročného dievčaťa, ktoré sa zaujímalo o fantasy, upírstvo a čarodejníctvo... Rakúsky kriminálny seriál (2011). Hrajú: K. Sprengerová, H. Sigl, H. Marecek a ďalší. Program je opatrený skrytými titulkami (ST), (seriál, akcia, krimi), stereo, 2012</desc>
@@ -4632,7 +4637,7 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">akcia</category>
     <category lang="sk">krimi</category>
   </programme>
-  <programme start="20261127142000 +0100" stop="20261127161500 +0100" channel="CZ - PRIMA KRIMI">
+  <programme start="20261127144000 +0100" stop="20261127163500 +0100" channel="CZ - PRIMA KRIMI">
     <title lang="sk">Vraždy v Oxfordu IX (3)</title>
     <sub-title lang="sk">Magnum Opus: Part 1</sub-title>
     <desc lang="sk">(Magnum Opus: Part 1), Keď výbušnina ukrytá v balíčku zabije profesora geometrickej topológie, Hathaway ani jeho poradca Lewis ešte netušia, aký zamotaný prípad budú musieť vyriešiť. A že ako zvyčajne nezostane len pri jednej obeti... Záver britského kriminálneho seriálu (2015). Hrajú: K. Whately, L. Fox, C. Holmanová a ďalší. Program je opatrený skrytými titulkami (ST), (seriál, dráma, krimi, fantastika), stereo, Veľká Británia, 2015</desc>
@@ -4641,7 +4646,7 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">krimi</category>
     <category lang="sk">fantastika</category>
   </programme>
-  <programme start="20261127161500 +0100" stop="20261127181000 +0100" channel="CZ - PRIMA KRIMI">
+  <programme start="20261127163500 +0100" stop="20261127182500 +0100" channel="CZ - PRIMA KRIMI">
     <title lang="sk">Julie Lescautová VIII (2)</title>
     <sub-title lang="sk">Interdit au public</sub-title>
     <desc lang="sk">(Interdit au public), Komisárka Julie Lescautová má pred sebou zamotaný prípad. Musia vyriešiť vraždu novinára. Stopa vedie k veľvyslancovi, ktorý je však pod ochranou diplomatickej imunity... Francúzsky kriminálny seriál (2010). Hrajú: V. Genestová, G. Gabriel, J. Lauretová a ďalší. Réžia: D. Delaître. Program je vybavený audiodeskripciou (AD) a skrytými titulkami (ST), (seriál, dráma, krimi), stereo, 1999</desc>
@@ -4649,7 +4654,7 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">dráma</category>
     <category lang="sk">krimi</category>
   </programme>
-  <programme start="20261127181000 +0100" stop="20261127191000 +0100" channel="CZ - PRIMA KRIMI">
+  <programme start="20261127182500 +0100" stop="20261127191500 +0100" channel="CZ - PRIMA KRIMI">
     <title lang="sk">Vraždy v Kitzbühelu XI (7)</title>
     <sub-title lang="sk">Smrt lékárníka</sub-title>
     <desc lang="sk">(Smrt lékárníka), Karin a Lukas vyšetrujú vraždu mladej jogínky Amandy, ktorá bola propagátorkou svetelného pôstu. Podľa tejto filozofie človek nepotrebuje k životu potravu ani tekutiny – životnú energiu čerpá zo slnka. Amanda mala množstvo nepriateľov, najmä medzi lekármi a potravinárskymi koncernmi... Rakúsky kriminálny seriál (2011). Hrajú: K. Sprengerová, H. Sigl, H. Marecek a ďalší. Program je opatrený skrytými titulkami (ST), (seriál, akcia, krimi), stereo, 2012</desc>
@@ -4657,7 +4662,7 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">akcia</category>
     <category lang="sk">krimi</category>
   </programme>
-  <programme start="20261127191000 +0100" stop="20261127201500 +0100" channel="CZ - PRIMA KRIMI">
+  <programme start="20261127191500 +0100" stop="20261127202000 +0100" channel="CZ - PRIMA KRIMI">
     <title lang="sk">Vraždy v Kitzbühelu XI (8)</title>
     <sub-title lang="sk">Přátelé na celý život</sub-title>
     <desc lang="sk">(Přátelé na celý život), Počas lukostreleckej súťaže je v lese neďaleko Kitzbühelu usmrtený šípom majiteľ miestneho hotela. Jeho smrť nie je obyčajná nešťastná náhoda – ide o úkladnú vraždu... Rakúsky kriminálny seriál (2011). Hrajú: K. Sprengerová, H. Sigl, H. Marecek a ďalší. Program je opatrený skrytými titulkami (ST), (seriál, akcia, krimi), stereo, 2012</desc>
@@ -4665,7 +4670,7 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">akcia</category>
     <category lang="sk">krimi</category>
   </programme>
-  <programme start="20261127201500 +0100" stop="20261127220500 +0100" channel="CZ - PRIMA KRIMI">
+  <programme start="20261127202000 +0100" stop="20261127220500 +0100" channel="CZ - PRIMA KRIMI">
     <title lang="sk">Detektiv Endeavour Morse</title>
     <desc lang="sk">Endeavour Morse sa stal policajným strážnikom. Spolu so šéfinšpektorom Fredom Thursdayom sa zapája do vyšetrovania zločinov v Oxforde. Ich prvým prípadom je zmiznutie mladého dievčaťa... Pilotný film britského kriminálneho seriálu (2012). Hrajú: J. Light, F. Montgomeryová, P. Malahide, S. Evans, L. Backwellová, R. Allam a ďalší. Réžia: C. McCarthy., (seriál, dráma, krimi, fantastika), stereo, Veľká Británia, 2013</desc>
     <category lang="sk">seriál</category>
@@ -4681,7 +4686,7 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">akcia</category>
     <category lang="sk">krimi</category>
   </programme>
-  <programme start="20261127230000 +0100" stop="20261128000000 +0100" channel="CZ - PRIMA KRIMI">
+  <programme start="20261127230000 +0100" stop="20261127235500 +0100" channel="CZ - PRIMA KRIMI">
     <title lang="sk">Vraždy v Kitzbühelu XI (4)</title>
     <sub-title lang="sk">Láska, pokoj, smrt</sub-title>
     <desc lang="sk">(Láska, pokoj, smrt), Kitzbühelskí kriminalisti prichádzajú k novému prípadu. Po skončení festivalu bolo nájdené telo mladého muža. Všetko nasvedčuje tomu, že zomrel na infarkt. Pravda je však iná... Rakúsky kriminálny seriál (2011). Hrajú: K. Sprengerová, H. Sigl, H. Marecek a ďalší. Program je opatrený skrytými titulkami (ST), (seriál, akcia, krimi), stereo, 2012</desc>
@@ -4689,14 +4694,14 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
     <category lang="sk">akcia</category>
     <category lang="sk">krimi</category>
   </programme>
-  <programme start="20261128000000 +0100" stop="20261128004000 +0100" channel="CZ - PRIMA KRIMI">
+  <programme start="20261127235500 +0100" stop="20261128003500 +0100" channel="CZ - PRIMA KRIMI">
     <title lang="sk">Vraždy, které šokovaly XXIV (12)</title>
     <sub-title lang="sk">Cynthia Mueller</sub-title>
     <desc lang="sk">(Cynthia Mueller), Spoznajte priebeh vyšetrovania prostredníctvom svedkov, rodiny i odborníkov a odhaľte, čo ženy – vrahyne viedlo k spáchaniu trestných zločinov... Americký dokumentárny seriál (2018)., (dokument, krimi), stereo, 2018</desc>
     <category lang="sk">dokument</category>
     <category lang="sk">krimi</category>
   </programme>
-  <programme start="20261128004000 +0100" stop="20261128012500 +0100" channel="CZ - PRIMA KRIMI">
+  <programme start="20261128003500 +0100" stop="20261128011500 +0100" channel="CZ - PRIMA KRIMI">
     <title lang="sk">Vraždy, které šokovaly XXIV (13)</title>
     <sub-title lang="sk">Kelly Cochran</sub-title>
     <desc lang="sk">(Kelly Cochran), Spoznajte priebeh vyšetrovania prostredníctvom svedkov, rodiny i odborníkov a odhaľte, čo ženy – vrahyne viedlo k spáchaniu trestných zločinov... Americký dokumentárny seriál (2018)., (dokument, krimi), stereo, 2018</desc>
@@ -4705,7 +4710,7 @@ Pořad je opatřen skrytými titulky (ST), (spravodajstvo), stereo</desc>
   </programme>
   <channel id="215-barrandov">
     <display-name>Barrandov</display-name>
-    <icon src="https://web02.antik.sk/assets/img/channels/0df71aced13ad5a0767b3a29fd15b285.svg" />
+    <icon src="https://web02.antik.sk/assets/img/channels/eb17bab82adf3c2056f3ec895cc2c0f4.svg" />
   </channel>
   <programme start="20261127020000 +0100" stop="20261127030000 +0100" channel="215-barrandov">
     <title lang="sk">Na plac!</title>
@@ -4835,7 +4840,7 @@ Cesty Jirky Babicy po českých hospodách za poctivým jídlem a dobrým pitím
   </programme>
   <channel id="Barrandov Kino ">
     <display-name>Kino Barrandov</display-name>
-    <icon src="https://web02.antik.sk/assets/img/channels/9ac7f83baba5cdfb2b35ad1eb0ba4379.svg" />
+    <icon src="https://web02.antik.sk/assets/img/channels/b80d688ded8ff36547d06cf81d01e3d7.svg" />
   </channel>
   <programme start="20261127020000 +0100" stop="20261127030000 +0100" channel="Barrandov Kino ">
     <title lang="sk">Na plac!</title>
@@ -4959,7 +4964,7 @@ Cesty Jirky Babicy po českých hospodách za poctivým jídlem a dobrým pitím
   </programme>
   <channel id="Barrandov.Krimi.HD.sk">
     <display-name>Barrandov Krimi</display-name>
-    <icon src="https://web02.antik.sk/assets/img/channels/8d7ff3a199dde02b11e916a5e5bd7642.svg" />
+    <icon src="https://web02.antik.sk/assets/img/channels/9ec7fff6c8093d35c3b210b3980cb74e.svg" />
   </channel>
   <programme start="20261127044500 +0100" stop="20261127060000 +0100" channel="Barrandov.Krimi.HD.sk">
     <title lang="sk">Na plac!</title>
