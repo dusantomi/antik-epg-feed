@@ -2825,39 +2825,46 @@ Fínsko (2026)., (šport)</desc>
     <display-name>JOJ Šport</display-name>
     <icon src="https://web02.antik.sk/assets/img/channels/54fbaca022052183413574a6c79b70b1.svg" />
   </channel>
-  <programme start="20261128062000 +0100" stop="20261128083000 +0100" channel="CZ - JOJ ŠPORT">
-    <title lang="sk">IIHF MS do 18 rokov 2026</title>
-    <desc lang="sk">Semifinále: Slovensko - Lotyšsko
-Záznam semifinálového zápasu hokejových Majstrovstiev sveta hráčov do 18 rokov., (šport)</desc>
+  <programme start="20261128070000 +0100" stop="20261128080000 +0100" channel="CZ - JOJ ŠPORT">
+    <title lang="sk">Hokej je na JOJke - Extra Shift</title>
+    <desc lang="sk">Dnes s hosťami Andrejom Kmečom a Samuelom Bučekom
+Záznam športovo-publicistickej relácie Extra Shift., (šport)</desc>
+    <category lang="sk">šport</category>
+  </programme>
+  <programme start="20261128080000 +0100" stop="20261128083000 +0100" channel="CZ - JOJ ŠPORT">
+    <title lang="sk">V pozadí úspechu</title>
+    <desc lang="sk">Hádzaná - Liliana Gogová
+Záznam podcastového rozhovoru s úspešnými slovenskými športovcami, trénermi, komentátormi a inými., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
   <programme start="20261128083000 +0100" stop="20261128103000 +0100" channel="CZ - JOJ ŠPORT">
     <title lang="sk">Krasokorčuľovanie ISU Grand Prix</title>
-    <desc lang="sk">Tokyo, Japonsko - voľná jazda: ženy
+    <desc lang="sk">Tokio, Japonsko - voľná jazda: ženy
 Priamy prenos krasokorčuliarskeho podujatia z ISU Grand Prix., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
   <programme start="20261128103000 +0100" stop="20261128113000 +0100" channel="CZ - JOJ ŠPORT">
     <title lang="sk">Krasokorčuľovanie ISU Grand Prix</title>
-    <desc lang="sk">Tokyo, Japonsko - voľné tance
+    <desc lang="sk">Tokio, Japonsko - voľné tance
 Premiérový záznam krasokorčuliarskeho podujatia z ISU Grand Prix., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
   <programme start="20261128113000 +0100" stop="20261128133000 +0100" channel="CZ - JOJ ŠPORT">
     <title lang="sk">Krasokorčuľovanie ISU Grand Prix</title>
-    <desc lang="sk">Tokyo, Japonsko - voľná jazda: muži
+    <desc lang="sk">Tokio, Japonsko - voľná jazda: muži
 Priamy prenos krasokorčuliarskeho podujatia z ISU Grand Prix., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
   <programme start="20261128133000 +0100" stop="20261128144500 +0100" channel="CZ - JOJ ŠPORT">
     <title lang="sk">Krasokorčuľovanie ISU Grand Prix</title>
-    <desc lang="sk">Tokyo, Japonsko - voľná jazda: páry
+    <desc lang="sk">Tokio, Japonsko - voľná jazda: páry
 Premiérový záznam krasokorčuliarskeho podujatia z ISU Grand Prix., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
   <programme start="20261128144500 +0100" stop="20261128150000 +0100" channel="CZ - JOJ ŠPORT">
-    <title lang="sk">JOJŠPORT štúdio - Otvorenie Jasnej 2026</title>
-    <desc lang="sk">Premiérový záznam z otvorenia sezóny v lyžiarskom stredisku Jasná., (šport)</desc>
+    <title lang="sk">JOJŠPORT štúdio</title>
+    <desc lang="sk">Otvorenie Jasnej 2026
+Premiérový záznam z otvorenia sezóny v lyžiarskom stredisku Jasná., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
   <programme start="20261128150000 +0100" stop="20261128152500 +0100" channel="CZ - JOJ ŠPORT">
@@ -2872,13 +2879,15 @@ Priamy prenos podujatia prestížnej lyžiarskej súťaže v obrovskom slalome �
     <category lang="sk">šport</category>
   </programme>
   <programme start="20261128171000 +0100" stop="20261128174500 +0100" channel="CZ - JOJ ŠPORT">
-    <title lang="sk">JOJŠPORT štúdio - Otvorenie Jasnej 2026</title>
-    <desc lang="sk">Premiérový záznam z otvorenia sezóny v lyžiarskom stredisku Jasná., (šport)</desc>
+    <title lang="sk">JOJŠPORT štúdio</title>
+    <desc lang="sk">Otvorenie Jasnej 2026
+Premiérový záznam z otvorenia sezóny v lyžiarskom stredisku Jasná., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
   <programme start="20261128174500 +0100" stop="20261128180000 +0100" channel="CZ - JOJ ŠPORT">
     <title lang="sk">JOJŠPORT štúdio - Otvorenie Jasnej 2026</title>
-    <desc lang="sk">Premiérový záznam z otvorenia sezóny v lyžiarskom stredisku Jasná., (šport)</desc>
+    <desc lang="sk">Otvorenie Jasnej 2026
+Premiérový záznam z otvorenia sezóny v lyžiarskom stredisku Jasná., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
   <programme start="20261128180000 +0100" stop="20261128182500 +0100" channel="CZ - JOJ ŠPORT">
@@ -2897,40 +2906,40 @@ Priamy prenos podujatia prestížnej lyžiarskej súťaže v obrovskom slalome �
     <desc lang="sk">Svetový pohár obrovský slalom ženy / Super G muži, (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
-  <programme start="20261128194000 +0100" stop="20261128213500 +0100" channel="CZ - JOJ ŠPORT">
+  <programme start="20261128194000 +0100" stop="20261128213000 +0100" channel="CZ - JOJ ŠPORT">
     <title lang="sk">FIS Svetový pohár Super G muži</title>
     <desc lang="sk">Copper Mountain, USA
 Priamy prenos podujatia prestížnej lyžiarskej súťaže Super G mužov., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
-  <programme start="20261128213500 +0100" stop="20261128235500 +0100" channel="CZ - JOJ ŠPORT">
+  <programme start="20261128213000 +0100" stop="20261128220500 +0100" channel="CZ - JOJ ŠPORT">
+    <title lang="sk">V pozadí úspechu</title>
+    <desc lang="sk">Hádzaná - Diana Maria Vargová
+Záznam podcastového rozhovoru s úspešnými slovenskými športovcami, trénermi, komentátormi a inými., (šport)</desc>
+    <category lang="sk">šport</category>
+  </programme>
+  <programme start="20261128220500 +0100" stop="20261129003500 +0100" channel="CZ - JOJ ŠPORT">
     <title lang="sk">Hokej - Tipsport liga</title>
     <desc lang="sk">23. kolo: HKM Zvolen - HC 05 TAM Banská Bystrica
 Záznam hokejového zápasu Tipsport ligy., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
-  <programme start="20261128235500 +0100" stop="20261129003500 +0100" channel="CZ - JOJ ŠPORT">
+  <programme start="20261129003500 +0100" stop="20261129015500 +0100" channel="CZ - JOJ ŠPORT">
     <title lang="sk">Highlighty Európskej a Konferenčnej ligy UEFA</title>
     <desc lang="sk">Záznam highlightov futbalových zápasov UEFA., (šport)</desc>
-    <category lang="sk">šport</category>
-  </programme>
-  <programme start="20261129003500 +0100" stop="20261129032000 +0100" channel="CZ - JOJ ŠPORT">
-    <title lang="sk">Automobilové preteky</title>
-    <desc lang="sk">6 hodín vo Fuji - MS FIA vo vytrvalostných pretekoch 2026
-Záznam Majstrovstiev sveta vo vytrvalostných pretekoch 2026., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
   <channel id="JOJ Šport 2.cz">
     <display-name>JOJ Šport 2</display-name>
     <icon src="https://web02.antik.sk/assets/img/channels/fbf8b20a1336c41d3c30a3c8b82c9edc.svg" />
   </channel>
-  <programme start="20261128014500 +0100" stop="20261128033500 +0100" channel="JOJ Šport 2.cz">
+  <programme start="20261128014500 +0100" stop="20261128034000 +0100" channel="JOJ Šport 2.cz">
     <title lang="sk">Volejbal - ME 2026 ženy</title>
     <desc lang="sk">Francúzsko - Chorvátsko
 Záznam volejbalového zápasu Majstrovstiev Európy žien., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
-  <programme start="20261128033500 +0100" stop="20261128063000 +0100" channel="JOJ Šport 2.cz">
+  <programme start="20261128034000 +0100" stop="20261128063000 +0100" channel="JOJ Šport 2.cz">
     <title lang="sk">Volejbal - ME 2026 muži</title>
     <desc lang="sk">Švédsko - Česko
 Záznam volejbalového zápasu Majstrovstiev Európy mužov., (šport)</desc>
@@ -2961,8 +2970,9 @@ Priamy prenos podujatia prestížnej súťaže v behu na lyžiach., (šport)</de
     <category lang="sk">šport</category>
   </programme>
   <programme start="20261128131500 +0100" stop="20261128133500 +0100" channel="JOJ Šport 2.cz">
-    <title lang="sk">JOJŠPORT štúdio - Otvorenie Jasnej 2026</title>
-    <desc lang="sk">Premiérový záznam z otvorenia sezóny v lyžiarskom stredisku Jasná., (šport)</desc>
+    <title lang="sk">JOJŠPORT štúdio</title>
+    <desc lang="sk">Otvorenie Jasnej 2026
+Premiérový záznam z otvorenia sezóny v lyžiarskom stredisku Jasná., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
   <programme start="20261128133500 +0100" stop="20261128162000 +0100" channel="JOJ Šport 2.cz">
@@ -2972,8 +2982,9 @@ Záznam volejbalového zápasu Challenge Cup., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
   <programme start="20261128162000 +0100" stop="20261128165000 +0100" channel="JOJ Šport 2.cz">
-    <title lang="sk">JOJŠPORT štúdio - Otvorenie Jasnej 2026</title>
-    <desc lang="sk">Premiérový záznam z otvorenia sezóny v lyžiarskom stredisku Jasná., (šport)</desc>
+    <title lang="sk">JOJŠPORT štúdio</title>
+    <desc lang="sk">Otvorenie Jasnej 2026
+Premiérový záznam z otvorenia sezóny v lyžiarskom stredisku Jasná., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
   <programme start="20261128165000 +0100" stop="20261128192000 +0100" channel="JOJ Šport 2.cz">
@@ -2982,18 +2993,18 @@ Záznam volejbalového zápasu Challenge Cup., (šport)</desc>
 Priamy prenos zápasu slovenskej basketbalovej ligy Tipos., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
-  <programme start="20261128192000 +0100" stop="20261128221000 +0100" channel="JOJ Šport 2.cz">
+  <programme start="20261128192000 +0100" stop="20261128223000 +0100" channel="JOJ Šport 2.cz">
     <title lang="sk">Volejbal - Niké Extraliga ženy</title>
     <desc lang="sk">10. kolo: VK Slovan Bratislava - VA UNIZA Žilina
 Priamy prenos volejbalového zápasu ženskej extraligy., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
-  <programme start="20261128221000 +0100" stop="20261128231000 +0100" channel="JOJ Šport 2.cz">
+  <programme start="20261128223000 +0100" stop="20261128232500 +0100" channel="JOJ Šport 2.cz">
     <title lang="sk">Highlighty Európskej a Konferenčnej ligy UEFA</title>
     <desc lang="sk">Záznam highlightov futbalových zápasov UEFA., (šport)</desc>
     <category lang="sk">šport</category>
   </programme>
-  <programme start="20261128231000 +0100" stop="20261129013000 +0100" channel="JOJ Šport 2.cz">
+  <programme start="20261128232500 +0100" stop="20261129012500 +0100" channel="JOJ Šport 2.cz">
     <title lang="sk">Futbal - Európska liga</title>
     <desc lang="sk">AC Sparta Praha - AZ Alkmaar
 Záznam zápasu Európskej futbalovej ligy UEFA., (šport)</desc>
